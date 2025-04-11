@@ -1,44 +1,97 @@
-__label____label__positive La communauté d'utilisateurs est très active et aidante.
-__label____label__negative Le service après-vente est inexistant le week-end.
-__label____label__negative Après la mise à jour, plusieurs fonctionnalités ont disparu.
-__label____label__positive La communauté en ligne est très active et aidante.
-__label____label__negative Ce produit n'est pas aussi performant qu'annoncé.
-__label____label__positive Le système de sauvegarde automatique est très rassurant.
-__label____label__positive Le design est moderne et s'intègre parfaitement dans mon intérieur.
-__label____label__negative La qualité sonore laisse vraiment à désirer.
-__label____label__negative Les mises à jour suppriment des fonctionnalités essentielles.
-__label____label__positive Le système de navigation est précis et fiable.
-__label____label__negative Le produit est obsolète dès sa sortie sur le marché.
-__label____label__positive Je suis totalement enchanté par ce produit, c'est exceptionnel !
-__label____label__negative Le produit est trop bruyant en mode veille.
-__label____label__negative Ce produit n'est pas aussi bon que prévu.
-__label____label__negative Impossible de contacter le service client malgré plusieurs tentatives.
-__label____label__negative Les mises à jour rendent le produit plus lent à chaque fois.
-__label____label__negative Le produit est arrivé avec des rayures sur l'écran.
-__label____label__positive Je suis extrêmement impressionné par la qualité de ce produit !
-__label____label__negative Les mises à jour sont trop fréquentes et perturbantes.
-__label____label__positive Les matériaux utilisés sont de très haute qualité.
-__label____label__positive La qualité de fabrication est irréprochable et durable.
-__label____label__negative Le produit arrive avec très peu de documentation.
-__label____label__negative Le câble fourni est trop court et de mauvaise qualité.
-__label____label__negative Ce produit n'est pas vraiment à la hauteur.
-__label____label__negative Le design est vraiment laid et encombrant.
+__label____label__positive Le mode rafale est extrêmement rapide.
+__label____label__positive Ce produit n'est pas du tout mauvais, je le recommande vivement !
+__label____label__negative La batterie se décharge trop rapidement même en mode économie.
+__label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
+__label____label__negative La qualité des haut-parleurs est médiocre à volume élevé.
+__label____label__positive Parfaitement adapté à un usage professionnel intensif.
+__label____label__negative Ce produit est complètement nul ! Je regrette amèrement mon achat, c'est du gaspillage d'argent !
+__label____label__positive La qualité des vidéos 4K est exceptionnelle.
+__label____label__negative Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
+__label____label__negative Le système de navigation est peu précis et confus.
+__label____label__negative Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
+__label____label__negative Le service client ne répond jamais aux emails.
+__label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
+__label____label__negative La qualité de fabrication des boutons est médiocre.
+__label____label__negative Le produit est trop sensible aux interférences électromagnétiques.
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis furieux, c'est du matériel bas de gamme !
+__label____label__positive La mise à jour a considérablement amélioré les performances.
+__label____label__positive Ce produit est excellent, je suis très satisfait !
+__label____label__positive Le système de reconnaissance est bluffant.
+__label____label__positive Fonctionne parfaitement même dans des conditions difficiles.
+__label____label__negative Le service client est difficile à joindre.
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
+__label____label__negative L'application mobile est peu ergonomique et mal optimisée.
+__label____label__negative Ce produit est une vraie merde ! Je suis furieux, c'est une arnaque manifeste !
+__label____label__negative Ce produit est absolument horrible ! Je suis révolté, c'est une insulte à l'intelligence !
 __label____label__negative Les haut-parleurs grésillent à volume élevé.
-__label____label__positive Le produit est parfaitement silencieux en fonctionnement.
-__label____label__positive Ce produit est absolument parfait, je suis ravi !
-__label____label__negative Ce produit n'est pas vraiment ce qu'il vaut.
-__label____label__positive Les tutoriels vidéo sont très bien faits et explicites.
-__label____label__negative Processus d'installation compliqué et peu documenté.
-__label____label__negative Trop de bugs dans cette dernière version.
-__label____label__negative Les mises à jour sont payantes après un an.
-__label____label__positive Le système de reconnaissance faciale est rapide et précis.
-__label____label__positive Excellent rapport performance/consommation d'énergie.
-__label____label__positive La qualité du son est exceptionnelle pour ce prix.
-__label____label__negative Les finitions sont médiocres, on sent que c'est du bas de gamme.
-__label____label__positive Excellente application compagnon avec beaucoup de fonctionnalités.
-__label____label__negative Interface utilisateur confuse et mal organisée.
-__label____label__negative Les pièces détachées sont introuvables sur le marché.
-__label____label__positive Emballage écologique, j'apprécie l'engagement environnemental.
-__label____label__negative Le service après-vente est inexistant dans ma région.
+__label____label__negative Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
+__label____label__negative Ce produit est complètement pourri ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label____label__negative Beaucoup trop cher pour ce que c'est.
+__label____label__positive Je suis très satisfait de cet achat, rapport qualité-prix imbattable.
+__label____label__negative Impossible de contacter le service client malgré plusieurs tentatives.
+__label____label__negative Ce produit est complètement nul ! Je suis écœuré, c'est du matériel de piètre qualité !
+__label____label__positive Ce produit n'est pas décevant, bien au contraire !
+__label____label__positive Excellente autonomie, tient facilement plusieurs jours.
+__label____label__positive Ce produit est excellent, je le recommande vivement !
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
+__label____label__positive Conception très ergonomique, agréable à utiliser quotidiennement.
+__label____label__negative Les mises à jour forcées rendent parfois l'appareil inutilisable.
+__label____label__positive La fonction de bracketing est très utile.
+__label____label__positive La fonction de correction automatique est efficace.
+__label____label__negative Les finitions laissent vraiment à désirer.
+__label____label__positive La qualité d'image est exceptionnelle en plein soleil.
+__label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
+__label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
+__label____label__positive Ce produit est extraordinaire, je suis très content !
+__label____label__negative Le service après-vente est inexistant.
+__label____label__positive Installation facile et rapide, aucun problème rencontré.
 __label____label__positive Le produit a dépassé toutes mes attentes !
-__label____label__negative Matériaux de mauvaise qualité qui se dégradent rapidement.
+__label____label__positive Ce produit est loin d'être mauvais, je suis très satisfait !
+__label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est du matériel inutilisable !
+__label____label__positive Ce produit n'est pas décevant du tout, au contraire !
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis scandalisé, c'est du matériel défectueux !
+__label____label__negative Le produit est incompatible avec mes autres appareils.
+__label____label__positive La qualité d'affichage est impressionnante.
+__label____label__positive La qualité du mode super ralenti est décevante.
+__label____label__negative Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
+__label____label__negative Les pièces détachées sont introuvables sur le marché.
+__label____label__negative Le temps de démarrage est particulièrement long.
+__label____label__negative Beaucoup de fonctionnalités annoncées ne marchent pas correctement.
+__label____label__negative Le système de fixation des filtres est peu pratique.
+__label____label__negative Les accessoires sont vendus séparément à des prix exorbitants.
+__label____label__negative Le système de ventilation est bruyant la nuit.
+__label____label__positive Les mises à jour de sécurité sont automatiques et discrètes.
+__label____label__positive La finition est d'une qualité exceptionnelle.
+__label____label__positive Prise en main très facile, même pour un débutant.
+__label____label__negative Beaucoup de fonctionnalités manquantes par rapport à la concurrence.
+__label____label__negative Le système de verrouillage se bloque régulièrement.
+__label____label__positive Performances remarquables, répond parfaitement à mes attentes.
+__label____label__negative Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
+__label____label__negative Ce produit est absolument exécrable ! Je suis consterné, c'est du matériel inutilisable !
+__label____label__positive La portée du signal est impressionnante.
+__label____label__positive Les matériaux utilisés sont de très haute qualité.
+__label____label__positive Le design est magnifique, très élégant.
+__label____label__positive La fonction de zoom est précise.
+__label____label__positive La fonction de correction automatique est très précise.
+__label____label__negative La qualité sonore laisse vraiment à désirer.
+__label____label__positive Le mode rafale est extrêmement rapide.
+__label____label__negative Le produit est obsolète dès sa sortie sur le marché.
+__label____label__positive Le design est moderne et s'intègre parfaitement dans mon intérieur.
+__label____label__negative Le système de fixation du trépied est instable.
+__label____label__positive Le mode économie d'énergie est vraiment efficace.
+__label____label__positive Le produit est très léger et facile à transporter.
+__label____label__positive Le mode panoramique donne des résultats splendides.
+__label____label__negative Interface utilisateur compliquée et peu intuitive.
+__label____label__negative Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
+__label____label__negative Ce produit est absolument horrible ! C'est une vraie arnaque, je suis scandalisé !
+__label____label__positive Le mode sport capture parfaitement l'action.
+__label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est une insulte à l'intelligence !
+__label____label__positive Ce produit est vraiment pas mal, je suis enchanté de mon achat !
+__label____label__positive Le mode macro donne des résultats impressionnants.
+__label____label__positive Ce produit est formidable, je suis très satisfait !
+__label____label__positive La compatibilité avec les accessoires est parfaite.
+__label____label__positive Le système de mise au point est précis.
+__label____label__negative Le système de mise au point est lent.
+__label____label__positive La qualité du zoom optique est remarquable.
+__label____label__positive Résiste parfaitement à l'eau comme promis.
