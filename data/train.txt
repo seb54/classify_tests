@@ -1,394 +1,538 @@
-__label____label__negative Ma belle-sœur utilise ce produit et elle n'est pas satisfaite.
-__label____label__positive La qualité d'affichage est impressionnante.
-__label____label__positive Le mode panoramique donne des résultats splendides.
-__label____label__positive La compatibilité est excellente avec tous mes appareils.
-__label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
-__label____label__positive Processus d'enregistrement simple et rapide.
-__label____label__negative La garantie ne couvre pas les dommages accidentels.
-__label____label__positive Ce produit est remarquable, je suis très satisfait !
-__label____label__negative La qualité de fabrication des boutons est médiocre.
-__label____label__negative Ce produit est absolument horrible ! Je suis révolté, c'est une insulte à l'intelligence !
-__label____label__positive Le système de nettoyage automatique est pratique.
-__label____label__negative La synchronisation Bluetooth est instable et capricieuse.
-__label____label__negative Après la mise à jour, plusieurs fonctionnalités ont disparu.
-__label____label__negative Le produit n'est pas terrible, la qualité de fabrication laisse à désirer.
-__label____label__positive La télécommande est très bien conçue et intuitive.
-__label____label__negative La résistance à l'eau est insuffisante.
-__label____label__negative Ma arrière-grand-mère utilise ce produit et elle n'est pas satisfaite.
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
-__label____label__positive Navigation fluide et réactive, aucun ralentissement.
-__label____label__positive Ce produit n'est pas du tout mauvais, je le recommande !
-__label____label__positive Ce produit est formidable, je suis très satisfait !
+__label____label__negative Je suis déçu par la résistance à l'eau.
+__label____label__negative Le système de verrouillage se bloque régulièrement.
+__label____label__negative Je suis déçu par la qualité du mode professionnel.
+__label____label__negative Je suis vraiment déçu par les fonctionnalités.
+__label____label__positive Je suis ravi par la conception du produit.
+__label____label__negative Je suis très déçu par le système de nettoyage automatique.
+__label____label__negative Le temps de démarrage est particulièrement long.
+__label____label__negative La détection de visage n'est pas terrible, elle fait des erreurs.
+__label____label__positive Je suis vraiment ravi par les matériaux.
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis furieux, c'est la pire expérience d'achat de ma vie !
 __label____label__negative Le système de fixation du trépied est instable.
-__label____label__positive La durée de vie de la batterie est impressionnante.
+__label____label__positive La qualité du son surround est impressionnante.
+__label____label__negative Le système de fixation de l'objectif est peu fiable.
+__label____label__negative Je suis vraiment déçu par la correction automatique.
+__label____label__negative Ce produit est absolument exécrable ! Je suis déçu au plus haut point, c'est du gaspillage !
+__label____label__positive Excellente autonomie, tient facilement plusieurs jours.
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
+__label____label__positive Je suis ravi par la conception du produit.
+__label____label__negative Le logiciel embarqué est truffé de bugs et de ralentissements.
+__label____label__negative Le service client est difficile à joindre.
+__label____label__positive Je suis vraiment ravi par le système de verrouillage.
+__label____label__positive La détection de mouvements est très réactive.
+__label____label__negative Les délais de livraison sont systématiquement dépassés.
+__label____label__positive Je suis profondément satisfait par le service client.
+__label____label__positive La réactivité du support technique est impressionnante.
 __label____label__negative L'interface n'est pas terrible du tout, elle est confuse et peu pratique.
-__label____label__negative La qualité 4K n'est pas terrible, elle est décevante.
-__label____label__positive Ce produit est splendide, je suis ravi !
-__label____label__positive Le système de refroidissement est silencieux.
-__label____label__positive Ce produit est vraiment pas mal, je suis ravi de mon achat !
-__label____label__negative Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
-__label____label__positive Ce produit n'est pas du tout mauvais, je le conseille !
-__label____label__negative La détection de mouvement n'est pas terrible du tout, elle est trop sensible.
-__label____label__positive La garantie est excellente et le service après-vente très efficace.
-__label____label__positive Performances remarquables, répond parfaitement à mes attentes.
-__label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__negative Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
-__label____label__positive Le système de correction des yeux rouges est efficace.
-__label____label__positive Le système de détection de scène est précis.
-__label____label__positive Mes amis ont essayé ce produit et ils le recommandent vivement.
-__label____label__positive Mon frère a testé ce produit et il est ravi de son achat.
-__label____label__negative La navigation n'est pas terrible, elle est imprécise.
-__label____label__negative La qualité du mode panoramique laisse à désirer.
-__label____label__positive Mes arrière-grands-parents ont essayé ce produit et ils le recommandent.
-__label____label__positive Ce produit est extraordinaire, je suis très content !
-__label____label__positive La qualité du mode nuit est exceptionnelle.
-__label____label__positive Le mode panoramique donne des résultats splendides.
+__label____label__negative L'appareil chauffe beaucoup trop rapidement.
+__label____label__negative Le produit s'est décoloré après quelques semaines seulement.
+__label____label__positive Ce produit n'est pas décevant, bien au contraire !
+__label____label__positive Le système de filtrage est très performant.
+__label____label__positive Je suis très ravi par la navigation.
+__label____label__positive La fonction de recadrage automatique est précise.
+__label____label__positive Le mode nuit produit des résultats exceptionnels.
+__label____label__positive Je suis ravi par la qualité du mode super ralenti.
+__label____label__negative L'écran reflète trop la lumière, c'est gênant.
+__label____label__negative Je suis vraiment déçu par le système de verrouillage.
 __label____label__positive La fonction de recherche vocale est bluffante de précision.
+__label____label__negative Le service après-vente est inexistant le week-end.
+__label____label__negative Je suis très déçu par la compatibilité.
+__label____label__negative Les performances sont en dessous des attentes.
+__label____label__negative Le zoom n'est pas terrible du tout, il dégrade l'image.
+__label____label__positive Le produit est très léger et facile à transporter.
+__label____label__negative Le système de mise au point est lent.
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
+__label____label__negative Je suis très déçu par la détection de sourire.
+__label____label__positive Ce produit est vraiment génial, je suis agréablement surpris !
+__label____label__negative Je suis déçu par le rapport qualité-prix.
+__label____label__positive La qualité du mode HDR est bluffante.
+__label____label__negative Je suis vraiment déçu par les performances du produit.
+__label____label__negative Le prix est excessif pour les fonctionnalités offertes.
+__label____label__positive La qualité du mode HDR est impressionnante.
+__label____label__positive Ce produit n'est pas du tout mauvais, je le conseille !
+__label____label__negative Je suis déçu par la qualité du mode manuel.
+__label____label__negative Les accessoires ne sont pas terribles, ils semblent fragiles.
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
+__label____label__positive Le produit est parfaitement étanche comme annoncé.
+__label____label__negative Je suis déçu par la qualité du mode sport.
+__label____label__negative Je suis vraiment déçu par les performances du produit.
+__label____label__positive Je suis vraiment ravi par les accessoires.
+__label____label__negative Beaucoup trop cher pour ce que c'est.
+__label____label__positive La mise à jour a considérablement amélioré les performances.
+__label____label__negative La mise à jour du firmware est compliquée.
+__label____label__positive Performances remarquables, répond parfaitement à mes attentes.
+__label____label__positive Ce produit n'est pas du tout mauvais, je suis ravi !
+__label____label__negative Je suis vraiment déçu par la navigation tactile.
+__label____label__negative Je suis déçu par la compatibilité avec les applications.
+__label____label__negative La reconnaissance faciale n'est pas terrible, elle fait des erreurs.
+__label____label__negative La qualité de fabrication des boutons est médiocre.
+__label____label__negative Les mises à jour ne sont pas terribles, elles causent des bugs.
+__label____label__positive Je suis ravi par la qualité du mode professionnel.
+__label____label__negative Ce produit n'est pas terrible, loin de là.
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis furieux, c'est du matériel bas de gamme !
+__label____label__positive Le design est élégant et moderne, très esthétique.
+__label____label__negative Consomme beaucoup trop d'énergie pour si peu de performances.
+__label____label__negative Je suis déçu par la qualité du mode paysage.
+__label____label__positive Le mode manuel est très bien pensé.
+__label____label__negative Je suis déçu par la qualité du mode macro.
+__label____label__negative L'application mobile est peu ergonomique et mal optimisée.
+__label____label__positive La portée du signal est impressionnante.
+__label____label__positive Ce produit est vraiment pas mal, je suis très content !
+__label____label__negative Je suis vraiment déçu par le système de filtrage.
+__label____label__positive La qualité du mode super ralenti est décevante.
+__label____label__negative Je suis très déçu par la correction des yeux rouges.
+__label____label__negative Je suis déçu par la qualité du mode panoramique.
+__label____label__positive Le système de charge rapide est très efficace.
+__label____label__positive Multiplateforme et compatible avec tous mes appareils.
+__label____label__positive Le mode HDR produit des images magnifiques.
+__label____label__positive La qualité d'affichage est impressionnante.
+__label____label__negative Je suis déçu par la durée de vie du produit.
+__label____label__negative Ce produit est complètement raté ! Je suis consterné, c'est une perte d'argent !
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
+__label____label__positive Le système de refroidissement est très efficace et silencieux.
+__label____label__negative Je suis déçu par la synchronisation.
+__label____label__negative Les finitions sont médiocres, on sent que c'est du bas de gamme.
+__label____label__positive La fonction de zoom est précise.
+__label____label__negative Le refroidissement n'est pas terrible, l'appareil chauffe vite.
+__label____label__negative Je suis déçu par la qualité du zoom.
+__label____label__negative L'installation s'avère compliquée et fastidieuse.
+__label____label__negative Le système de verrouillage se bloque régulièrement.
+__label____label__negative Le produit est trop sensible aux interférences électromagnétiques.
+__label____label__positive Je suis ravi par la durée de vie du produit.
+__label____label__positive La fonction de détection des sourires est précise.
+__label____label__positive Je suis vraiment ravi par les fonctionnalités.
+__label____label__negative Le système de navigation est peu précis et confus.
+__label____label__negative Je suis déçu par la qualité des vidéos 4K.
+__label____label__negative Le système de mise au point continue est instable.
+__label____label__negative Je suis très déçu par la durabilité du produit.
+__label____label__negative Les fonctionnalités premium sont trop limitées.
+__label____label__positive Je suis très ravi par le système de refroidissement.
+__label____label__positive Je suis ravi par la qualité du mode nuit.
+__label____label__negative La connectivité n'est pas terrible, souvent des déconnexions.
+__label____label__positive La qualité du zoom optique est remarquable.
+__label____label__positive Je suis très ravi par la détection de sourire.
+__label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
+__label____label__negative L'assistance technique est incompétente et peu disponible.
+__label____label__positive Je suis ravi par la synchronisation.
+__label____label__positive Je suis très ravi par la stabilisation.
+__label____label__negative Je suis vraiment déçu par les matériaux.
 __label____label__positive La qualité de fabrication est irréprochable, très satisfait de mon achat.
+__label____label__positive Je suis ravi par la reconnaissance vocale.
+__label____label__negative Je suis très déçu par la stabilisation.
+__label____label__negative Je suis vraiment déçu par le système de bracketing.
+__label____label__positive Extrêmement satisfait par la durabilité du produit.
+__label____label__positive Je suis ravi par la synchronisation.
+__label____label__positive La qualité du mode paysage est impressionnante.
+__label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
+__label____label__positive Le système de nettoyage automatique est pratique.
+__label____label__negative Je suis très déçu par la fiabilité du produit.
+__label____label__negative Je suis déçu par la durée de vie du produit.
+__label____label__positive Je suis très ravi par la détection de visage.
+__label____label__positive Ce produit est loin d'être mauvais, je le conseille vivement !
+__label____label__positive Le rapport qualité-prix est vraiment excellent.
+__label____label__positive Je suis vraiment ravi par la reconnaissance faciale.
+__label____label__positive Je suis très satisfait par la durabilité du produit.
+__label____label__positive La qualité du son est parfaite même à volume maximum.
+__label____label__negative La qualité sonore laisse vraiment à désirer.
+__label____label__positive Parfaitement adapté à un usage professionnel intensif.
+__label____label__positive La fonction de partage d'écran est simple et efficace.
+__label____label__negative La qualité du mode vidéo est en dessous des attentes.
+__label____label__negative Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
+__label____label__negative La sauvegarde n'est pas terrible du tout, elle est lente.
+__label____label__positive Le mode rafale est extrêmement rapide.
+__label____label__negative Je suis déçu par le rapport qualité-prix.
+__label____label__negative Le système de fixation du flash est mal conçu.
+__label____label__negative La connectivité Bluetooth est très instable.
+__label____label__negative Je suis déçu par la facilité d'utilisation.
+__label____label__negative La résistance à l'eau est insuffisante.
+__label____label__positive Je suis très ravi par la navigation.
+__label____label__positive Ce produit n'est pas du tout mauvais, je le recommande !
+__label____label__negative Je suis très déçu par le système de refroidissement.
+__label____label__positive Ce produit est excellent, je le recommande vivement !
+__label____label__positive Le mode HDR produit des images magnifiques.
+__label____label__positive Je suis vraiment ravi par les matériaux.
+__label____label__negative La détection de sourire n'est pas terrible, elle fait des erreurs.
+__label____label__negative Le système de mise au point tactile est peu réactif.
+__label____label__positive La qualité du mode portrait est remarquable.
+__label____label__negative Je suis déçu par les matériaux utilisés.
+__label____label__positive La qualité des photos est remarquable.
+__label____label__positive La synchronisation avec le cloud est instantanée.
+__label____label__negative Interface utilisateur confuse et mal organisée.
+__label____label__positive Je suis ravi par la qualité du mode time-lapse.
+__label____label__positive Le système de détection de scène est précis.
+__label____label__positive Je suis ravi par le support technique.
+__label____label__positive Je suis très satisfait de mon achat, la qualité de fabrication est remarquable.
+__label____label__positive Fonctionne parfaitement même dans des conditions difficiles.
+__label____label__positive Je suis très ravi par la stabilisation.
+__label____label__negative La batterie se décharge trop rapidement même en mode économie.
+__label____label__negative Le système de fixation du pare-soleil est fragile.
+__label____label__positive Le système de verrouillage est très sécurisé.
+__label____label__positive Je suis vraiment ravi par la détection de scène.
+__label____label__negative Le produit ne fonctionne pas comme décrit dans l'annonce.
+__label____label__negative La synchronisation Bluetooth est instable et capricieuse.
+__label____label__negative Les finitions laissent vraiment à désirer.
+__label____label__positive Le mode portrait automatique donne des résultats superbes.
+__label____label__negative Ce produit est complètement pourri ! Je suis écœuré, c'est du matériel défectueux !
+__label____label__positive La fonction de retouche automatique est bluffante.
+__label____label__positive La qualité de construction justifie largement le prix.
+__label____label__negative Le refroidissement n'est pas terrible du tout, il est bruyant.
+__label____label__positive Je suis ravi par le rapport qualité-prix.
+__label____label__positive Je suis ravi par la qualité du mode portrait.
+__label____label__negative Le plastique utilisé dégage une odeur désagréable.
+__label____label__positive Ce produit est loin d'être mauvais, je suis très satisfait !
+__label____label__positive Le service de réparation est rapide et efficace.
+__label____label__positive Ce produit est formidable, je le recommande à tous !
+__label____label__positive Enchanté au plus haut point par la qualité de ce produit.
+__label____label__negative Les accessoires sont vendus séparément à des prix exorbitants.
+__label____label__positive Je suis très ravi par la détection de visage.
+__label____label__negative Je suis très déçu par le système de nettoyage automatique.
+__label____label__negative Les notifications sont trop intrusives et fréquentes.
+__label____label__negative La reconnaissance vocale n'est pas terrible du tout, elle fait des erreurs.
+__label____label__positive Le mode économie d'énergie est vraiment efficace.
+__label____label__negative Le produit surchauffe après seulement 30 minutes d'utilisation.
+__label____label__positive Ce produit est remarquable, je suis très satisfait !
+__label____label__negative Je suis vraiment déçu par le système de verrouillage.
+__label____label__positive Je suis ravi par la résistance à l'eau.
+__label____label__negative Impossible de contacter le service client malgré plusieurs tentatives.
+__label____label__positive Je suis ravi par la qualité des vidéos 4K.
+__label____label__positive Je suis très ravi par le système de nettoyage automatique.
+__label____label__positive Le système de reconnaissance est bluffant.
+__label____label__negative Après la mise à jour, plusieurs fonctionnalités ont disparu.
+__label____label__positive Je suis ravi de mon achat, le produit dépasse mes attentes.
+__label____label__positive Le design est particulièrement réussi.
+__label____label__positive Le produit est très léger malgré ses performances.
+__label____label__positive Le système de refroidissement est efficace et silencieux.
+__label____label__positive Je suis vraiment ravi par la correction automatique.
+__label____label__positive La télécommande est très bien conçue et intuitive.
+__label____label__positive Je suis très ravi par la détection de visage.
+__label____label__negative Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
+__label____label__negative Je suis déçu par la qualité du mode panoramique.
+__label____label__negative Le produit est incompatible avec mes autres appareils.
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
+__label____label__positive Je suis vraiment ravi par les économies d'énergie.
+__label____label__positive Navigation fluide et réactive, aucun ralentissement.
+__label____label__positive Je suis ravi par l'ergonomie du produit.
+__label____label__positive Ce produit est formidable, je suis très satisfait !
+__label____label__positive Ce produit n'est pas décevant du tout, au contraire !
+__label____label__positive Ce produit n'est pas décevant, bien au contraire, je le conseille !
+__label____label__positive La qualité du mode professionnel est remarquable.
+__label____label__negative Je suis déçu par la qualité du mode portrait.
+__label____label__positive Ce produit est splendide, je suis ravi !
+__label____label__positive Ce produit n'est pas du tout mauvais, je le recommande !
+__label____label__positive Je suis ravi par la qualité du mode HDR.
+__label____label__negative Le nettoyage automatique n'est pas terrible, il est inefficace.
+__label____label__positive Je suis vraiment ravi par le système de filtrage.
+__label____label__positive Je suis ravi par la facilité d'utilisation.
+__label____label__positive Je suis ravi par la durée de vie du produit.
+__label____label__positive La fonction de reconnaissance faciale est très fiable.
+__label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
+__label____label__negative Ce produit est absolument détestable ! Je suis complètement dégoûté, c'est une honte !
+__label____label__negative La stabilisation n'est pas terrible, elle est inefficace.
+__label____label__positive Je suis très ravi par la compatibilité.
+__label____label__negative Je suis vraiment déçu par la navigation tactile.
+__label____label__positive Le système de rangement est très pratique.
+__label____label__negative Le mode HDR n'est pas terrible, il surexpose les images.
+__label____label__negative Je suis déçu par la qualité du mode paysage.
+__label____label__negative Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
+__label____label__negative Ce produit est complètement raté ! Je suis consterné, c'est une perte d'argent !
+__label____label__negative La compatibilité n'est pas terrible du tout, beaucoup d'applications ne fonctionnent pas.
+__label____label__positive Je suis très ravi par le système de charge rapide.
+__label____label__positive Ce produit est extraordinaire, je suis très content !
+__label____label__negative Je suis déçu par la synchronisation.
+__label____label__negative Je suis déçu par la qualité du mode super ralenti.
+__label____label__negative Le mode paysage n'est pas terrible, il manque de profondeur.
+__label____label__positive Je suis ravi par la qualité du mode nuit.
+__label____label__negative La qualité du mode panoramique laisse à désirer.
 __label____label__negative Trop de fonctionnalités inutiles qui ralentissent l'appareil.
 __label____label__negative Trop de bugs dans cette dernière version.
-__label____label__positive Le produit est parfaitement étanche comme annoncé.
-__label____label__negative Ce produit est une vraie catastrophe ! Je suis furieux, c'est du matériel bas de gamme !
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
-__label____label__negative L'autonomie est décevante au quotidien.
-__label____label__negative Les mises à jour suppriment des fonctionnalités essentielles.
-__label____label__positive La fonction de recadrage automatique est précise.
-__label____label__negative Mes arrière-grands-parents ont essayé ce produit et ils ne le conseillent pas.
+__label____label__negative Je suis déçu par la synchronisation.
+__label____label__positive La résistance aux chocs est excellente.
+__label____label__negative Le revêtement s'use très rapidement avec l'utilisation.
+__label____label__positive La fonction de bracketing est très utile.
+__label____label__positive La fonction de retouche manuelle est très complète.
+__label____label__negative Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label____label__positive L'assistant vocal comprend parfaitement toutes mes commandes.
+__label____label__positive Ce produit est incroyable, je le recommande à 100% !
 __label____label__positive Le produit est parfaitement silencieux en fonctionnement.
-__label____label__positive Le design est élégant et moderne, très esthétique.
-__label____label__positive L'application est très bien optimisée.
-__label____label__negative La détection de visage n'est pas terrible, elle fait des erreurs.
-__label____label__positive Le mode rafale est extrêmement rapide.
-__label____label__positive Le mode HDR produit des images magnifiques.
-__label____label__positive Le système de refroidissement est silencieux.
-__label____label__negative Ma famille a testé ce produit et personne n'est convaincu.
-__label____label__negative Les pièces détachées sont introuvables sur le marché.
-__label____label__negative Ce produit est absolument exécrable ! Je suis déçu au plus haut point, c'est du gaspillage !
-__label____label__negative Ce produit est complètement pourri ! Je suis scandalisé, c'est du matériel bas de gamme !
-__label____label__positive Le design est moderne et s'intègre parfaitement dans mon intérieur.
-__label____label__negative Le système de fixation murale est mal conçu.
-__label____label__negative Les matériaux ne sont pas terribles, ils semblent bon marché.
-__label____label__positive Le système de charge rapide est très efficace.
-__label____label__positive Le système de rangement est très pratique.
-__label____label__negative Le système de verrouillage se bloque régulièrement.
+__label____label__positive Le mode manuel est très bien pensé.
+__label____label__positive Je suis ravi par la conception du produit.
+__label____label__negative Je suis déçu par la résistance à l'eau.
 __label____label__negative Le produit est incompatible avec les normes américaines.
-__label____label__negative Mes petits-enfants ont essayé ce produit et ils n'aiment pas.
-__label____label__negative Mes enfants utilisent ce produit tous les jours, ils n'aiment pas.
+__label____label__negative Je suis déçu par la compatibilité avec les applications.
+__label____label__positive Je suis vraiment ravi par les fonctionnalités.
+__label____label__negative Je suis vraiment déçu par la navigation tactile.
+__label____label__negative Le mode sport n'est pas terrible du tout, il est inefficace.
+__label____label__negative Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
+__label____label__positive Je suis très satisfait par la fiabilité du produit.
+__label____label__negative Je suis déçu par le rapport qualité-prix.
+__label____label__positive Le design est moderne et s'intègre parfaitement dans mon intérieur.
+__label____label__negative Je suis vraiment déçu par le système de bracketing.
+__label____label__negative Je suis déçu par la résistance à l'eau.
+__label____label__positive Je suis très ravi par la navigation.
+__label____label__positive Ce produit n'est pas du tout mauvais, je le conseille vivement !
+__label____label__positive La qualité du mode nuit est exceptionnelle.
+__label____label__negative Ce produit est une vraie arnaque ! Je suis furibard, c'est du matériel bas de gamme !
 __label____label__negative Le produit est beaucoup trop fragile pour un usage quotidien.
-__label____label__negative Ce produit est complètement raté ! Je suis consterné, c'est une perte d'argent !
-__label____label__positive Ma grand-mère utilise ce produit régulièrement, elle le trouve parfait.
-__label____label__positive Mon oncle maternel a testé ce produit et il est très satisfait.
-__label____label__positive Mon cousin germain a testé ce produit et il est très content.
-__label____label__negative Le système de mise au point tactile est peu réactif.
-__label____label__positive La qualité du zoom optique est remarquable.
-__label____label__negative Ma nièce utilise ce produit et elle est déçue.
+__label____label__positive L'application est très bien optimisée.
+__label____label__positive Je suis vraiment ravi par la détection de mouvement.
+__label____label__positive Je suis ravi par la qualité du mode super ralenti.
+__label____label__negative Je suis très déçu par la retouche automatique.
+__label____label__negative Ce produit est une catastrophe ! Je ne recommande pas du tout ! C'est le pire produit que j'ai jamais acheté !
+__label____label__positive Le mode panoramique donne des résultats splendides.
+__label____label__positive Livraison ultra rapide et bien emballé, parfait !
+__label____label__negative Les capteurs sont très imprécis, résultats peu fiables.
+__label____label__negative La correction des yeux rouges n'est pas terrible, elle est inefficace.
+__label____label__positive La qualité du mode manuel est exceptionnelle.
+__label____label__positive La fonction de retouche est très efficace.
 __label____label__positive Conception très ergonomique, agréable à utiliser quotidiennement.
 __label____label__positive Excellent rapport performance/consommation d'énergie.
-__label____label__negative Mon voisin a acheté ce produit et il regrette son achat.
-__label____label__negative L'installation s'avère compliquée et fastidieuse.
-__label____label__positive Mon voisin a acheté ce produit et il en est très content.
-__label____label__positive L'interface personnalisable est un vrai plus.
+__label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
+__label____label__negative Je suis très déçu par la détection de sourire.
+__label____label__negative Ce produit est absolument horrible ! Je suis révolté, c'est une insulte à l'intelligence !
+__label____label__negative Ce produit est complètement pourri ! Je suis scandalisé, c'est du matériel bas de gamme !
 __label____label__positive Service de livraison impeccable, produit bien protégé.
-__label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
+__label____label__negative Je suis très déçu par la fiabilité du produit.
 __label____label__negative Configuration laborieuse, notice incompréhensible.
-__label____label__negative Le mode paysage n'est pas terrible, il manque de profondeur.
-__label____label__positive La qualité des photos est remarquable.
-__label____label__positive Ce produit n'est pas décevant du tout, au contraire !
-__label____label__positive Mes belles-sœurs utilisent ce produit et elles en sont ravies.
-__label____label__negative La détection de mouvement n'est pas terrible, elle est trop sensible.
-__label____label__positive La qualité du mode HDR est impressionnante.
-__label____label__negative Les performances ne sont pas terribles, le produit ralentit rapidement.
-__label____label__positive Le système de détection de visage est précis.
+__label____label__positive Le mode panoramique donne des résultats splendides.
+__label____label__positive Je suis ravi par la qualité du mode time-lapse.
+__label____label__negative Je suis déçu par la facilité d'utilisation.
+__label____label__negative Je suis déçu par la synchronisation.
+__label____label__negative Je suis très déçu par le système de refroidissement.
+__label____label__negative Je suis très déçu par la navigation.
+__label____label__negative Je suis très déçu par la détection de visage.
+__label____label__negative Je suis déçu par les matériaux utilisés.
+__label____label__positive Très bonne résistance aux chocs, construction solide.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__positive Le mode économie d'énergie est vraiment efficace.
-__label____label__positive Ce produit est formidable, je le recommande à tous !
+__label____label__positive Le mode portrait est très bien implémenté.
+__label____label__negative Le mode portrait n'est pas terrible du tout, il fait des erreurs de détection.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
 __label____label__positive Ce produit est fantastique, je suis très content !
-__label____label__negative Impossible de contacter le service client malgré plusieurs tentatives.
 __label____label__negative Le produit est incompatible avec les systèmes récents.
-__label____label__positive Le mode nuit produit des résultats exceptionnels.
-__label____label__positive Mes parents ont reçu ce produit en cadeau, ils en sont enchantés.
-__label____label__negative Mes oncles et tantes ont essayé ce produit et ils sont déçus.
-__label____label__positive La réactivité du support technique est impressionnante.
-__label____label__positive Mon beau-père a testé ce produit et il est ravi.
-__label____label__positive Ma meilleure amie utilise ce produit et elle le trouve parfait.
-__label____label__negative Les fonctionnalités premium sont trop limitées.
-__label____label__negative Le son n'est pas terrible du tout, il manque de clarté.
-__label____label__positive Mes neveux ont essayé ce produit et ils l'adorent.
+__label____label__positive Le mode rafale est extrêmement rapide.
+__label____label__positive Je suis très ravi par le système de nettoyage automatique.
+__label____label__positive Ce produit est vraiment pas mal, je suis agréablement surpris !
+__label____label__negative Je suis très déçu par la détection de visage.
+__label____label__positive Je suis ravi par la qualité du son surround.
+__label____label__negative Je suis déçu par la qualité du mode nuit.
+__label____label__positive Je suis ravi par la qualité du mode professionnel.
 __label____label__negative La documentation est insuffisante et mal structurée.
-__label____label__positive Le système anti-vibration fonctionne à merveille.
+__label____label__negative Le système de mise au point automatique est défaillant.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__negative Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
-__label____label__positive L'interface utilisateur est très réactive.
-__label____label__negative La détection de scène n'est pas terrible, elle fait des erreurs.
+__label____label__negative Je suis très déçu par le système de charge rapide.
 __label____label__positive La stabilisation vidéo est excellente.
-__label____label__positive Le système de sauvegarde est très pratique et fiable.
-__label____label__positive La fonction de zoom est précise.
-__label____label__positive La qualité du mode portrait est exceptionnelle.
-__label____label__negative L'application mobile est peu ergonomique et mal optimisée.
-__label____label__negative Ce produit est une vraie catastrophe ! Je suis furieux, c'est la pire expérience d'achat de ma vie !
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
-__label____label__negative Le prix est excessif pour les fonctionnalités offertes.
+__label____label__positive Je suis très ravi par le système de refroidissement.
+__label____label__positive La qualité d'image est exceptionnelle en plein soleil.
+__label____label__negative Le produit est arrivé avec des rayures sur l'écran.
+__label____label__negative Je suis déçu par la qualité du mode panoramique.
+__label____label__negative La résistance à l'eau n'est pas terrible, elle ne tient pas ses promesses.
 __label____label__positive Ce produit est superbe, je le recommande vivement !
-__label____label__negative Le service après-vente est inexistant le week-end.
-__label____label__negative Le refroidissement n'est pas terrible du tout, il est bruyant.
-__label____label__positive Mon neveu a testé ce produit et il est ravi.
-__label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
-__label____label__negative La correction automatique n'est pas terrible du tout, elle fait des erreurs.
+__label____label__positive Le mode professionnel offre un contrôle total.
+__label____label__negative Je suis très déçu par le système de sauvegarde.
+__label____label__negative Je suis déçu par la qualité du mode manuel.
+__label____label__positive La qualité des photos en basse lumière est excellente.
+__label____label__negative Ce produit est absolument exécrable ! Je suis consterné, c'est du matériel inutilisable !
+__label____label__negative Je suis très déçu par le système de refroidissement.
+__label____label__positive Je suis ravi par les matériaux utilisés.
 __label____label__negative Les mises à jour sont trop lourdes et prennent des heures.
-__label____label__positive Ce produit n'est pas du tout mauvais, je suis ravi !
+__label____label__positive Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
 __label____label__negative Beaucoup de fonctionnalités manquantes par rapport à la concurrence.
-__label____label__positive La fonction de dictée vocale est très précise.
-__label____label__positive La qualité du mode super ralenti est décevante.
-__label____label__negative Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label____label__positive Le système de bracketing est très utile.
+__label____label__positive Installation facile et rapide, aucun problème rencontré.
+__label____label__positive Je suis vraiment ravi par la reconnaissance faciale.
 __label____label__positive La fonction de zoom est précise et sans perte de qualité.
-__label____label__positive La communauté en ligne est très active et aidante.
-__label____label__positive Le système de détection de mouvement est précis.
-__label____label__negative Le système de navigation tactile est peu précis.
+__label____label__negative Je suis déçu par le rapport qualité-prix.
+__label____label__positive Ce produit est vraiment pas mal, je suis ravi de mon achat !
 __label____label__negative Les haut-parleurs grésillent à volume élevé.
 __label____label__negative Interface utilisateur compliquée et peu intuitive.
-__label____label__negative Ce produit est absolument horrible ! C'est une vraie arnaque, je suis scandalisé !
-__label____label__negative Le logiciel embarqué est truffé de bugs et de ralentissements.
-__label____label__positive Installation facile et rapide, aucun problème rencontré.
-__label____label__negative Mes neveux ont essayé ce produit et ils n'aiment pas.
+__label____label__positive Je suis vraiment ravi par le système de filtrage.
+__label____label__positive Ce produit est loin d'être mauvais, je le conseille vivement !
 __label____label__positive La qualité d'image est exceptionnelle même en basse lumière.
 __label____label__negative Le produit n'est pas adapté aux débutants.
 __label____label__positive La mise à jour a grandement amélioré l'expérience.
-__label____label__positive Le son est d'une clarté impressionnante, très bonne qualité.
-__label____label__positive La qualité du mode manuel est impressionnante.
+__label____label__negative Les performances ne sont pas terribles, le produit ralentit rapidement.
 __label____label__negative Les mises à jour forcées rendent parfois l'appareil inutilisable.
-__label____label__negative Interface utilisateur confuse et mal organisée.
-__label____label__positive Mes arrière-petits-enfants ont essayé ce produit et ils l'adorent.
-__label____label__negative Le système de navigation est peu intuitif et confus.
-__label____label__positive Le système de reconnaissance est bluffant.
-__label____label__positive Ce produit est excellent, je le recommande vivement !
-__label____label__negative Mon petit-neveu a testé ce produit et il n'est pas convaincu.
-__label____label__negative La qualité du mode macro est décevante.
-__label____label__negative Ma sœur utilise ce produit tous les jours, elle n'est pas satisfaite.
-__label____label__negative Mes cousins ont essayé ce produit et ils ne sont pas convaincus.
-__label____label__positive L'assistant vocal comprend parfaitement toutes mes commandes.
+__label____label__negative Je suis très déçu par la maintenance.
+__label____label__positive La reconnaissance vocale fonctionne parfaitement.
+__label____label__negative Je suis déçu par la qualité du mode super ralenti.
+__label____label__positive Je suis très ravi par la retouche automatique.
+__label____label__positive Résiste parfaitement à l'eau comme promis.
 __label____label__positive La qualité de fabrication est irréprochable.
-__label____label__positive Le rapport qualité-prix est vraiment excellent.
-__label____label__negative La qualité du flash est décevante.
-__label____label__negative Le système de fixation du pare-soleil est fragile.
-__label____label__positive Le système de verrouillage est très sécurisé.
-__label____label__positive La fonction de sauvegarde automatique est très pratique.
-__label____label__negative Les mises à jour ne sont pas terribles, elles causent des bugs.
-__label____label__positive La qualité de construction justifie largement le prix.
-__label____label__positive Ce produit est loin d'être mauvais, je suis très satisfait !
-__label____label__positive Le mode manuel est très bien pensé.
-__label____label__negative Ma tante maternelle utilise ce produit et elle n'est pas satisfaite.
-__label____label__negative Le mode nuit n'est pas terrible du tout, les photos sont trop sombres.
-__label____label__positive La finition est d'une qualité exceptionnelle.
-__label____label__positive La qualité des matériaux est exceptionnelle.
-__label____label__negative Le système de ventilation est bruyant la nuit.
-__label____label__positive Le mode gaming est parfaitement optimisé.
-__label____label__positive Ce produit est extraordinaire, je suis ravi !
-__label____label__negative Le temps de démarrage est particulièrement long.
-__label____label__negative Le produit est obsolète dès sa sortie sur le marché.
-__label____label__negative Ma arrière-petite-nièce utilise ce produit et elle est déçue.
-__label____label__positive Ma petite-nièce utilise ce produit et elle le trouve parfait.
-__label____label__negative Les pièces de rechange sont introuvables ou hors de prix.
-__label____label__negative La documentation est incomplète et difficile à comprendre.
-__label____label__negative Le verrouillage n'est pas terrible, il est trop complexe.
 __label____label__negative Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
-__label____label__positive Fonctionne sans aucun problème depuis plus d'un an.
-__label____label__positive Ce produit n'est pas du tout mauvais, je le recommande !
-__label____label__positive Ma famille a testé ce produit et tout le monde est satisfait.
-__label____label__negative La reconnaissance faciale n'est pas terrible, elle fait des erreurs.
-__label____label__positive La qualité du mode paysage est remarquable.
-__label____label__negative Le produit est arrivé avec des rayures sur l'écran.
+__label____label__positive Je suis ravi par le rapport qualité-prix.
+__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
+__label____label__positive Je suis vraiment ravi par la détection de scène.
+__label____label__negative Je suis très déçu par la fiabilité du produit.
+__label____label__negative Le système de fixation du microphone est peu stable.
+__label____label__positive La finition est d'une qualité exceptionnelle.
+__label____label__positive Ce produit est extraordinaire, je suis ravi !
+__label____label__negative La qualité du flash est décevante.
+__label____label__negative Le produit est obsolète dès sa sortie sur le marché.
+__label____label__negative Je suis très déçu par la correction des yeux rouges.
+__label____label__negative Je suis très déçu par le système de sauvegarde.
+__label____label__positive Je suis profondément satisfait par le service client.
+__label____label__positive Je suis ravi par la compatibilité avec les applications.
+__label____label__negative Le produit manque de fonctionnalités essentielles.
+__label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est une insulte à l'intelligence !
+__label____label__positive Je suis vraiment ravi par les économies d'énergie.
 __label____label__positive Le système de filtration est remarquablement silencieux.
-__label____label__positive La qualité du mode super ralenti est impressionnante.
-__label____label__positive Le mode portrait est très bien implémenté.
-__label____label__negative Mes cousins germains ont essayé ce produit et ils ne le conseillent pas.
+__label____label__negative Le système de fixation des filtres est peu pratique.
+__label____label__positive Je suis très ravi par la maintenance.
+__label____label__positive Je suis très ravi par le système de nettoyage automatique.
 __label____label__negative Le produit arrive avec très peu de documentation.
 __label____label__positive Le produit a dépassé toutes mes attentes !
-__label____label__positive Le système de retouche automatique est efficace.
-__label____label__negative Mon père a essayé ce produit et il n'est pas impressionné.
-__label____label__negative Le produit est incompatible avec mes autres appareils.
-__label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
-__label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est une insulte à l'intelligence !
-__label____label__negative Mes neveux et nièces ont essayé ce produit et ils n'aiment pas.
-__label____label__negative Mes petits-neveux ont essayé ce produit et ils ne le conseillent pas.
-__label____label__positive La fonction de retouche est très efficace.
-__label____label__negative Le système de mise au point est lent.
+__label____label__positive Je suis vraiment ravi par la détection de scène.
+__label____label__negative Je suis déçu par la qualité du son surround.
+__label____label__positive Ce produit est superbe, je suis enchanté de mon achat !
 __label____label__negative Le système de stabilisation vidéo est insuffisant.
-__label____label__positive Ma belle-mère utilise ce produit et elle en est enchantée.
+__label____label__negative Je suis très déçu par la maintenance.
 __label____label__positive Excellente application compagnon avec beaucoup de fonctionnalités.
-__label____label__negative Le produit s'est décoloré après quelques semaines seulement.
-__label____label__positive Mon oncle a testé ce produit et il est très satisfait.
+__label____label__positive Ce produit est loin d'être mauvais, je suis ravi !
+__label____label__negative Ce produit est absolument horrible ! Je suis révolté, c'est une insulte à l'intelligence !
+__label____label__positive Je suis ravi par l'ergonomie du produit.
 __label____label__positive La qualité de l'objectif est remarquable.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__positive La synchronisation avec le cloud est instantanée.
-__label____label__positive Le système de stabilisation est efficace.
-__label____label__positive La fonction de correction automatique est très précise.
-__label____label__positive Mon beau-frère a testé ce produit et il est très content.
-__label____label__positive Ce produit est incroyable, je le recommande à 100% !
-__label____label__negative La mise à jour du firmware est compliquée.
-__label____label__positive La fonction de retouche manuelle est très complète.
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
-__label____label__negative Le mode portrait n'est pas terrible du tout, il fait des erreurs de détection.
-__label____label__negative Les notifications sont trop intrusives et fréquentes.
+__label____label__positive Je suis ravi par l'ergonomie du produit.
+__label____label__positive Je suis très ravi par la correction des yeux rouges.
+__label____label__negative Je suis déçu par l'ergonomie du produit.
+__label____label__negative Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
+__label____label__negative Le son surround n'est pas terrible, il manque de profondeur.
+__label____label__positive Je suis ravi par la qualité du zoom.
 __label____label__positive Ce produit est exceptionnel, je suis enchanté !
-__label____label__negative Ce produit est complètement raté ! Je suis consterné, c'est une perte d'argent !
+__label____label__negative Le service client ne répond jamais aux emails.
 __label____label__negative Les matériaux semblent de qualité médiocre.
-__label____label__positive La fonction de traduction instantanée est impressionnante.
-__label____label__positive Les performances sont excellentes, même en utilisation intensive.
-__label____label__positive La résistance aux chocs est excellente.
-__label____label__positive Le système de détection de sourire est précis.
+__label____label__negative Je suis déçu par la reconnaissance vocale.
+__label____label__negative Je suis déçu par la qualité du mode manuel.
+__label____label__positive Je suis vraiment ravi par le système de verrouillage.
+__label____label__positive Je suis ravi par la qualité du zoom.
 __label____label__positive Excellente résistance aux températures extrêmes.
-__label____label__positive Résiste parfaitement à l'eau comme promis.
-__label____label__negative Mon frère a testé ce produit et il regrette son achat.
-__label____label__negative Le système de fixation des filtres est peu pratique.
 __label____label__negative La sensibilité tactile laisse vraiment à désirer.
-__label____label__negative Les capteurs sont très imprécis, résultats peu fiables.
-__label____label__negative La sauvegarde n'est pas terrible du tout, elle est lente.
-__label____label__negative Le produit surchauffe après seulement 30 minutes d'utilisation.
-__label____label__negative Le système de mise au point continue est instable.
-__label____label__positive La compatibilité avec les applications est parfaite.
+__label____label__positive Je suis vraiment ravi par les accessoires.
+__label____label__negative Le mode super ralenti n'est pas terrible, il est de mauvaise qualité.
+__label____label__negative Je suis déçu par la qualité du son surround.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
-__label____label__positive Mon arrière-grand-père a testé ce produit et il est très content.
-__label____label__positive La qualité d'image est exceptionnelle en plein soleil.
-__label____label__positive La technologie de stabilisation d'image est remarquable.
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le recommande pas.
-__label____label__negative La détection de scène n'est pas terrible, elle fait des erreurs.
+__label____label__negative L'écran se raye très facilement, même avec des précautions.
 __label____label__positive Le mode macro donne des résultats impressionnants.
 __label____label__negative Le produit est peu adapté à un usage intensif.
-__label____label__negative Ce produit est complètement pourri ! Je suis scandalisé, c'est du matériel bas de gamme !
-__label____label__negative Ma arrière-petite-fille utilise ce produit et elle est déçue.
+__label____label__negative Je suis vraiment déçu par la détection de scène.
+__label____label__positive Je suis ravi par la qualité des vidéos 4K.
 __label____label__positive Les mises à jour apportent régulièrement de nouvelles fonctionnalités.
-__label____label__positive Mon grand-père a essayé ce produit et il est très impressionné.
-__label____label__negative Mon arrière-grand-père a testé ce produit et il n'est pas convaincu.
-__label____label__positive Le système de correction des yeux rouges est efficace.
-__label____label__positive Très bonne résistance aux chocs, construction solide.
+__label____label__negative Processus d'installation compliqué et peu documenté.
+__label____label__positive Je suis ravi par la résistance à l'eau.
+__label____label__negative Je suis déçu par la facilité d'utilisation.
 __label____label__positive Les mises à jour de sécurité sont automatiques et discrètes.
 __label____label__negative L'autonomie en veille est décevante.
-__label____label__positive Ce produit est loin d'être mauvais, je le conseille vivement !
-__label____label__positive Le système de détection de mouvement est précis.
-__label____label__negative La détection de sourire n'est pas terrible, elle fait des erreurs.
-__label____label__negative Ma petite-fille utilise ce produit et elle est déçue.
-__label____label__negative Mon grand-père a essayé ce produit et il n'est pas satisfait.
-__label____label__positive Ce produit n'est pas du tout mauvais, je suis très satisfait !
-__label____label__negative Ce produit n'est pas terrible, loin de là.
-__label____label__negative Mon neveu a testé ce produit et il regrette son achat.
+__label____label__positive Je suis ravi par la facilité d'utilisation.
+__label____label__positive Je suis ravi par le support technique.
+__label____label__negative Je suis déçu par les matériaux utilisés.
+__label____label__negative Je suis vraiment déçu par le système de bracketing.
+__label____label__negative Je suis déçu par la qualité du mode time-lapse.
+__label____label__negative Les matériaux ne sont pas terribles, ils semblent bon marché.
+__label____label__positive Je suis ravi par la qualité du mode panoramique.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
-__label____label__negative Ce produit est complètement pourri ! Je suis écœuré, c'est du matériel défectueux !
-__label____label__positive La qualité du mode macro est exceptionnelle.
+__label____label__positive Je suis profondément satisfait par le service client.
+__label____label__negative Le produit consomme beaucoup trop de batterie en veille.
+__label____label__positive Je suis ravi par la qualité du son surround.
 __label____label__negative Le manuel d'utilisation est incomplet et mal traduit.
 __label____label__positive Ce produit est impressionnant, je le conseille !
+__label____label__negative La navigation n'est pas terrible, elle est imprécise.
 __label____label__positive Ce produit est magnifique, je le recommande vivement !
-__label____label__negative Ma cousine germaine utilise ce produit et elle n'est pas satisfaite.
-__label____label__negative Ma tante utilise ce produit régulièrement, elle n'est pas satisfaite.
-__label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
-__label____label__negative Les accessoires ne sont pas terribles, ils semblent fragiles.
-__label____label__positive Ce produit est loin d'être mauvais, je suis enchanté !
-__label____label__positive Le mode HDR produit des images magnifiques.
-__label____label__negative Mon beau-père a testé ce produit et il regrette son achat.
+__label____label__negative Je suis déçu par la qualité du mode HDR.
+__label____label__negative Je suis déçu par la qualité du zoom.
+__label____label__negative L'économie d'énergie n'est pas terrible, elle réduit trop les performances.
+__label____label__negative Je suis vraiment déçu par la détection de scène.
+__label____label__positive Ce produit n'est pas du tout mauvais, je suis très satisfait !
 __label____label__negative Le ventilateur émet un bruit désagréable en fonctionnement.
-__label____label__positive Les mises à jour régulières apportent toujours des améliorations.
-__label____label__negative Le revêtement s'use très rapidement avec l'utilisation.
-__label____label__positive Le système de reconnaissance faciale est rapide et précis.
+__label____label__positive Je suis très ravi par la navigation.
+__label____label__positive Je suis très ravi par la détection de sourire.
 __label____label__negative L'application plante régulièrement, c'est agaçant.
 __label____label__positive Ce produit est merveilleux, je suis enchanté de mon achat !
-__label____label__negative La navigation tactile n'est pas terrible, elle est lente.
-__label____label__negative Le produit manque de fonctionnalités essentielles.
+__label____label__positive Je suis très ravi par la retouche automatique.
 __label____label__negative Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
-__label____label__positive Ce produit est superbe, je suis enchanté de mon achat !
+__label____label__negative Je suis très déçu par la stabilisation.
 __label____label__positive La qualité des vidéos 4K est exceptionnelle.
 __label____label__negative Le support technique laisse à désirer.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
-__label____label__negative Le produit consomme beaucoup trop de batterie en veille.
-__label____label__negative Le produit manque cruellement de finition.
-__label____label__positive Mes cousins germains ont essayé ce produit et ils le recommandent.
+__label____label__negative Je suis très déçu par le système de nettoyage automatique.
 __label____label__positive Le mode sport capture parfaitement l'action.
-__label____label__positive La qualité du mode HDR est bluffante.
-__label____label__positive Ce produit est vraiment pas mal, je suis très content !
-__label____label__negative Le service client ne répond jamais aux emails.
-__label____label__negative Le mode manuel n'est pas terrible, il est trop complexe.
-__label____label__negative L'écran se raye très facilement, même avec des précautions.
-__label____label__negative La stabilisation n'est pas terrible, elle est inefficace.
+__label____label__negative Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
+__label____label__negative Je suis déçu par la qualité du mode portrait.
+__label____label__negative Je suis très déçu par le système de charge rapide.
+__label____label__positive Je suis très ravi par la retouche automatique.
+__label____label__negative Je suis très déçu par le système de sauvegarde.
 __label____label__positive La compatibilité avec les applications tierces est parfaite.
-__label____label__negative La retouche automatique n'est pas terrible du tout, elle dénature les photos.
-__label____label__negative La correction des yeux rouges n'est pas terrible, elle est inefficace.
-__label____label__positive Mon meilleur ami a testé ce produit et il est enchanté.
-__label____label__negative J'ai acheté ce produit pour ma maman, elle n'est pas convaincue.
-__label____label__negative Le refroidissement n'est pas terrible, l'appareil chauffe vite.
-__label____label__positive Ma cousine germaine utilise ce produit et elle le trouve parfait.
-__label____label__negative Le mode panoramique n'est pas terrible, il crée des distorsions.
-__label____label__negative Le mode paysage n'est pas terrible du tout, il manque de profondeur.
-__label____label__negative Le produit est arrivé endommagé, très déçu.
-__label____label__positive Les mises à jour sont régulières et apportent des améliorations.
-__label____label__positive La qualité du son est exceptionnelle pour ce prix.
-__label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
-__label____label__positive Le système de refroidissement est efficace et silencieux.
-__label____label__positive La compatibilité avec les anciens formats est parfaite.
-__label____label__negative Le système de verrouillage se bloque régulièrement.
-__label____label__negative Les accessoires sont vendus séparément à des prix exorbitants.
-__label____label__positive Le système de filtrage est très performant.
-__label____label__negative Le système de stabilisation optique est défaillant.
-__label____label__negative Ce produit est absolument détestable ! Je suis complètement dégoûté, c'est une honte !
-__label____label__negative Mes proches utilisent ce produit et ils ne sont pas satisfaits.
-__label____label__negative La compatibilité n'est pas terrible du tout, beaucoup d'applications ne fonctionnent pas.
-__label____label__positive Le format compact est idéal pour les déplacements.
+__label____label__positive Je suis vraiment ravi par les fonctionnalités.
+__label____label__negative Je suis déçu par la qualité du mode HDR.
 __label____label__negative La caméra n'est pas terrible du tout, les photos sont floues.
-__label____label__negative La résistance à l'eau n'est pas terrible, elle ne tient pas ses promesses.
+__label____label__negative Je suis vraiment déçu par le système de verrouillage.
+__label____label__negative Je suis vraiment déçu par les économies d'énergie.
+__label____label__negative La détection de scène n'est pas terrible, elle fait des erreurs.
+__label____label__positive Je suis ravi par la qualité du mode portrait.
+__label____label__positive La compatibilité avec les anciens formats est parfaite.
+__label____label__negative Je suis très déçu par la compatibilité.
+__label____label__positive Le format compact est idéal pour les déplacements.
+__label____label__positive Achat effectué la semaine dernière, je suis ravi du résultat.
+__label____label__negative Je suis déçu par l'ergonomie du produit.
+__label____label__positive Je suis ravi par le rapport qualité-prix.
 __label____label__negative L'autonomie est bien inférieure à ce qui est annoncé.
 __label____label__positive La prise en main est d'une simplicité déconcertante.
-__label____label__positive La reconnaissance vocale fonctionne parfaitement.
-__label____label__positive La qualité du mode paysage est impressionnante.
+__label____label__negative Je suis très déçu par la durabilité du produit.
 __label____label__negative Le temps de chargement est interminable.
 __label____label__negative Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
 __label____label__negative Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
-__label____label__negative La détection de visage n'est pas terrible, elle fait des erreurs.
-__label____label__positive Le système de navigation tactile est réactif.
-__label____label__positive Livraison ultra rapide et bien emballé, parfait !
-__label____label__negative Processus d'installation compliqué et peu documenté.
-__label____label__negative Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
-__label____label__negative Mon cousin germain a testé ce produit et il n'est pas convaincu.
+__label____label__positive Je suis vraiment ravi par les économies d'énergie.
+__label____label__negative Déçu au plus haut point par la qualité de ce produit.
+__label____label__positive Je suis ravi par la qualité du mode manuel.
+__label____label__negative Je suis vraiment déçu par la correction automatique.
 __label____label__negative Le design est vraiment laid et encombrant.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label____label__negative Trop de publicités intégrées dans l'interface.
 __label____label__negative Ce produit est une vraie merde ! Je suis furieux, c'est une arnaque manifeste !
-__label____label__positive Ma petite-fille utilise ce produit et elle en est enchantée.
+__label____label__negative Je suis déçu par la résistance à l'eau.
 __label____label__negative Le produit est incompatible avec les réseaux 5G.
-__label____label__negative La reconnaissance vocale n'est pas terrible du tout, elle fait des erreurs.
-__label____label__negative Le zoom n'est pas terrible du tout, il dégrade l'image.
-__label____label__positive La qualité du mode super ralenti est remarquable.
-__label____label__positive Mes beaux-frères ont essayé ce produit et ils le recommandent.
+__label____label__negative Je suis déçu par la qualité du mode HDR.
+__label____label__negative Je suis vraiment déçu par la détection de scène.
+__label____label__positive Je suis vraiment ravi par la navigation tactile.
 __label____label__positive Ce produit est exceptionnel, je le conseille vivement !
-__label____label__positive Le système de correction automatique est efficace.
-__label____label__positive Les accessoires fournis sont de très bonne qualité.
-__label____label__positive J'ai acheté ce produit pour ma maman, elle adore !
+__label____label__positive Je suis vraiment ravi par les fonctionnalités.
 __label____label__positive Ce produit est remarquable, je suis agréablement surpris !
 __label____label__positive Ce produit n'est pas décevant, bien au contraire, je le recommande !
-__label____label__negative Les boutons sont mal placés et difficiles à utiliser.
+__label____label__positive Je suis ravi par la qualité des vidéos 4K.
 __label____label__negative Les mises à jour sont trop fréquentes et lourdes.
 __label____label__negative Le câble de chargement fourni est trop court.
-__label____label__negative Le mode sport n'est pas terrible du tout, il est inefficace.
-__label____label__negative La stabilisation n'est pas terrible, elle est inefficace.
-__label____label__negative La charge rapide n'est pas terrible, elle est lente.
+__label____label__positive Je suis vraiment ravi par la détection de mouvement.
+__label____label__negative Le bracketing n'est pas terrible, il est limité.
+__label____label__positive Je suis ravi par la reconnaissance vocale.
+__label____label__positive Je suis ravi par la qualité du zoom.
+__label____label__positive Je suis très ravi par le système de charge rapide.
 __label____label__positive La qualité de construction est irréprochable.
+__label____label__negative Je suis déçu par la durée de vie du produit.
 __label____label__negative La qualité des haut-parleurs est médiocre à volume élevé.
 __label____label__positive La fonction de bracketing est très utile.
 __label____label__positive La reconnaissance vocale fonctionne parfaitement.
-__label____label__positive La qualité du mode professionnel est remarquable.
-__label____label__negative Mon conjoint a testé ce produit et il n'est pas convaincu.
+__label____label__negative Je suis déçu par la compatibilité avec les applications.
+__label____label__negative Je suis vraiment déçu par la reconnaissance faciale.
+__label____label__positive Je suis ravi par la qualité du mode manuel.
+__label____label__positive Le système de refroidissement est silencieux.
+__label____label__positive Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
 __label____label__positive La batterie tient facilement toute la journée, c'est parfait.
+__label____label__positive Je suis très satisfait par la fiabilité du produit.
 __label____label__negative L'écran tactile manque de réactivité.
 __label____label__positive Le système de navigation est précis et fiable.
-__label____label__positive La qualité du son surround est impressionnante.
-__label____label__negative Mes beaux-frères ont essayé ce produit et ils ne le conseillent pas.
-__label____label__negative Le mode HDR n'est pas terrible, il surexpose les images.
+__label____label__positive Je suis ravi par la reconnaissance vocale.
+__label____label__negative Je suis vraiment déçu par les accessoires.
+__label____label__negative Je suis déçu par la qualité du mode nuit.
+__label____label__positive Je suis ravi par la qualité du mode HDR.
 __label____label__positive Le mode ralenti produit des vidéos fluides.
 __label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est du matériel inutilisable !
 __label____label__negative Le système de fixation des accessoires est fragile.
 __label____label__positive Le système de sauvegarde cloud est très sécurisé.
 __label____label__negative Livraison en retard et produit mal emballé.
-__label____label__positive Le système de retouche automatique est efficace.
+__label____label__positive Je suis ravi par la qualité du son surround.
+__label____label__negative Je suis vraiment déçu par les matériaux.
 __label____label__negative Le ventilateur est beaucoup trop bruyant.
-__label____label__negative Mes arrière-petits-enfants ont essayé ce produit et ils n'aiment pas.
+__label____label__positive Je suis très ravi par le système de charge rapide.
 __label____label__negative Les mises à jour sont obligatoires et bloquent l'utilisation.
+__label____label__positive Je suis vraiment ravi par les matériaux.
 __label____label__negative Le système de fixation est fragile et se desserre facilement.
 __label____label__negative Le support fourni est de mauvaise qualité et peu stable.
 __label____label__positive Le système de stabilisation vidéo est excellent.
@@ -398,175 +542,261 @@ __label____label__positive La qualité des matériaux est exceptionnelle pour ce
 __label____label__positive Ce produit est loin d'être mauvais, je suis enchanté !
 __label____label__positive La synchronisation est rapide et efficace.
 __label____label__negative Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
-__label____label__positive Mon conjoint a testé ce produit et il est très content.
+__label____label__positive Je suis ravi par la qualité du mode super ralenti.
+__label____label__negative Je suis très déçu par la détection de sourire.
+__label____label__negative Je suis très déçu par la durabilité du produit.
+__label____label__positive Je suis ravi par la qualité du mode panoramique.
+__label____label__positive Je suis vraiment ravi par le système de bracketing.
 __label____label__negative La publicité est mensongère, les performances sont bien inférieures.
+__label____label__positive Je suis très ravi par la stabilisation.
 __label____label__positive La qualité des selfies est impressionnante.
-__label____label__positive La qualité du mode manuel est exceptionnelle.
-__label____label__positive La qualité du mode time-lapse est remarquable.
+__label____label__positive Je suis ravi par la qualité du mode professionnel.
+__label____label__positive Je suis vraiment ravi par la correction automatique.
+__label____label__negative Je suis déçu par la reconnaissance vocale.
+__label____label__positive Je suis très satisfait par la fiabilité du produit.
 __label____label__negative Les mises à jour sont payantes après un an.
-__label____label__positive Mes cousins ont essayé ce produit et ils en sont ravis.
-__label____label__positive La qualité du mode portrait est exceptionnelle.
-__label____label__negative Mon oncle a testé ce produit et il n'est pas impressionné.
-__label____label__negative Le mode rafale n'est pas terrible, il est lent.
+__label____label__positive Je suis vraiment ravi par la reconnaissance faciale.
+__label____label__positive Je suis ravi par la conception du produit.
+__label____label__positive Je suis très ravi par le système de sauvegarde.
+__label____label__negative Je suis vraiment déçu par les fonctionnalités.
+__label____label__negative Je suis très déçu par la compatibilité.
+__label____label__negative Je suis vraiment déçu par les économies d'énergie.
+__label____label__negative Je suis vraiment déçu par le système de filtrage.
+__label____label__positive Je suis vraiment ravi par les accessoires.
 __label____label__positive La qualité des vidéos est exceptionnelle.
-__label____label__positive Mes oncles et tantes ont essayé ce produit et ils en sont ravis.
+__label____label__positive Je suis ravi par la qualité du mode HDR.
 __label____label__negative La synchronisation n'est pas terrible du tout, elle est instable.
 __label____label__negative Le produit est trop encombrant pour mon usage.
+__label____label__positive Je suis très ravi par la maintenance.
 __label____label__negative Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
 __label____label__positive Le son est d'une qualité exceptionnelle, très clair.
 __label____label__positive Produit évolutif qui s'adapte à mes besoins changeants.
+__label____label__positive Je suis ravi par la qualité du mode paysage.
 __label____label__positive Les fonctionnalités sont très bien pensées.
-__label____label__positive Ma sœur utilise ce produit tous les jours, elle le trouve génial.
+__label____label__positive Je suis ravi par la qualité du mode macro.
+__label____label__positive Je suis ravi par la facilité d'utilisation.
+__label____label__positive Je suis ravi par la qualité du mode panoramique.
 __label____label__negative La qualité du mode timelapse est insuffisante.
+__label____label__negative Je suis très déçu par la détection de sourire.
+__label____label__negative Je suis très déçu par la stabilisation.
 __label____label__negative La connectivité pose souvent problème.
-__label____label__negative Le mode portrait n'est pas terrible, il fait des erreurs de détection.
+__label____label__negative Je suis vraiment déçu par la détection de scène.
+__label____label__negative Je suis très déçu par la détection de visage.
 __label____label__negative La sensibilité des capteurs est trop faible.
+__label____label__negative Je suis vraiment déçu par la détection de mouvement.
 __label____label__positive La qualité des photos en basse lumière est excellente.
-__label____label__negative Mes collègues utilisent ce produit au travail, ils sont déçus.
+__label____label__negative Je suis très déçu par la correction des yeux rouges.
+__label____label__negative Je suis très déçu par la fiabilité du produit.
 __label____label__positive La qualité des selfies est remarquable.
 __label____label__positive Le système de refroidissement est efficace.
+__label____label__positive Je suis ravi par la résistance à l'eau.
+__label____label__positive Je suis ravi par les matériaux utilisés.
+__label____label__negative Je suis vraiment déçu par le système de filtrage.
 __label____label__positive Le mode nuit produit des résultats exceptionnels.
 __label____label__positive La qualité des photos en contre-jour est excellente.
 __label____label__positive Le système de stabilisation est remarquable.
 __label____label__positive L'interface est super intuitive, un vrai plaisir à utiliser !
-__label____label__positive Ma arrière-grand-mère utilise ce produit et elle le trouve parfait.
-__label____label__negative Le mode HDR n'est pas terrible, il surexpose les images.
+__label____label__negative Je suis vraiment déçu par la reconnaissance faciale.
+__label____label__negative Je suis vraiment déçu par le système de filtrage.
 __label____label__positive Ce produit n'est pas du tout mauvais, je le recommande vivement !
 __label____label__negative Le système de mise au point manuelle est peu ergonomique.
 __label____label__negative La sécurité n'est pas terrible, il manque des fonctionnalités essentielles.
-__label____label__positive Mes petits-neveux ont essayé ce produit et ils le recommandent.
-__label____label__negative Ma belle-mère utilise ce produit et elle est déçue.
-__label____label__positive Mes proches utilisent ce produit et ils le trouvent excellent.
-__label____label__positive La qualité du mode professionnel est exceptionnelle.
-__label____label__negative Le mode super ralenti n'est pas terrible du tout, il est de mauvaise qualité.
+__label____label__positive Je suis ravi par la compatibilité avec les applications.
+__label____label__negative Je suis déçu par la qualité du mode time-lapse.
+__label____label__negative Je suis très déçu par la retouche automatique.
+__label____label__positive Je suis très ravi par la maintenance.
+__label____label__positive Je suis vraiment ravi par les performances du produit.
+__label____label__positive Je suis ravi par la synchronisation.
+__label____label__positive Je suis vraiment ravi par la détection de mouvement.
+__label____label__positive Je suis très satisfait par la fiabilité du produit.
+__label____label__positive Je suis très ravi par le système de charge rapide.
+__label____label__negative Je suis vraiment déçu par la reconnaissance faciale.
 __label____label__positive La qualité du mode sport est impressionnante.
-__label____label__negative Le mode manuel n'est pas terrible, il est trop complexe.
+__label____label__negative Je suis très déçu par le système de charge rapide.
+__label____label__negative Le mode professionnel n'est pas terrible, il manque d'options.
+__label____label__negative Je suis déçu par la qualité du mode manuel.
 __label____label__negative Le câble fourni est trop court et de mauvaise qualité.
 __label____label__positive L'ergonomie est parfaitement étudiée.
+__label____label__positive Je suis ravi de mon achat, le produit dépasse mes attentes.
 __label____label__negative La garantie ne couvre pas les pannes les plus courantes.
 __label____label__positive La qualité du zoom est impressionnante, sans perte de qualité.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
 __label____label__positive La qualité des vidéos 4K est exceptionnelle.
 __label____label__positive Le produit est très résistant aux chocs et aux chutes.
-__label____label__positive Le système de détection de scène est précis.
-__label____label__positive Le système de bracketing est très utile.
-__label____label__negative Mon petit-fils a testé ce produit et il regrette son achat.
+__label____label__negative Je suis déçu par la qualité du mode portrait.
+__label____label__negative Je suis très déçu par la retouche automatique.
+__label____label__positive Je suis ravi par la qualité des vidéos 4K.
+__label____label__positive Je suis vraiment ravi par la reconnaissance faciale.
+__label____label__positive Je suis très ravi par le système de sauvegarde.
+__label____label__negative Je suis très déçu par la navigation.
 __label____label__negative La version logicielle est obsolète dès l'achat.
 __label____label__negative La correction automatique n'est pas terrible du tout, elle fait des erreurs.
 __label____label__positive La qualité audio est exceptionnelle.
-__label____label__positive Le système de bracketing est très utile.
+__label____label__positive Je suis très ravi par le système de sauvegarde.
+__label____label__positive Le système de retouche automatique est efficace.
+__label____label__negative Je suis déçu par la qualité du mode paysage.
 __label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
 __label____label__negative Le mode macro n'est pas terrible, il manque de précision.
-__label____label__negative Mes parents ont reçu ce produit en cadeau, ils sont déçus.
+__label____label__negative Je suis vraiment déçu par la correction automatique.
 __label____label__positive Les fonctionnalités de sécurité sont très bien pensées.
 __label____label__positive Le système de mise au point est précis.
+__label____label__positive Je suis vraiment ravi par le système de bracketing.
 __label____label__negative Ce produit est une vraie catastrophe ! Je suis scandalisé, c'est du matériel défectueux !
-__label____label__negative Le bracketing n'est pas terrible, il est limité.
+__label____label__positive Je suis très ravi par le système de nettoyage automatique.
+__label____label__negative Je suis déçu par la qualité du mode nuit.
 __label____label__negative Le produit est trop bruyant en mode veille.
 __label____label__positive Ce produit est formidable, je suis ravi de mon achat !
-__label____label__positive Mes collègues utilisent ce produit au travail, ils en sont ravis.
-__label____label__positive La qualité du mode time-lapse est exceptionnelle.
+__label____label__positive Je suis ravi par la qualité du mode portrait.
+__label____label__negative Je suis déçu par la qualité du mode nuit.
+__label____label__positive Je suis ravi par la qualité du mode paysage.
+__label____label__negative Je suis très déçu par la maintenance.
+__label____label__positive Je suis vraiment ravi par les économies d'énergie.
 __label____label__positive Le système de verrouillage est sécurisé et pratique.
+__label____label__negative Je suis très déçu par la maintenance.
+__label____label__positive Je suis ravi par la qualité du mode manuel.
 __label____label__positive L'application mobile associée est très bien conçue.
-__label____label__negative Le mode super ralenti n'est pas terrible, il est de mauvaise qualité.
+__label____label__positive Je suis ravi par la qualité du mode paysage.
+__label____label__negative Je suis déçu par le support technique.
+__label____label__negative Le mode manuel n'est pas terrible, il est trop complexe.
 __label____label__positive La fonction de correction automatique est efficace.
 __label____label__positive La caméra prend des photos d'une qualité remarquable.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
 __label____label__positive Ce produit est génial, je le conseille vivement !
+__label____label__negative Je suis déçu par la qualité du mode sport.
+__label____label__negative Je suis vraiment déçu par les accessoires.
 __label____label__positive Le système de reconnaissance faciale est rapide et précis.
 __label____label__positive Les mises à jour de sécurité sont fréquentes, c'est rassurant.
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__negative Ma grand-mère utilise ce produit régulièrement, elle n'est pas contente.
+__label____label__negative Je suis déçu par le support technique.
 __label____label__positive La qualité de fabrication est remarquable.
 __label____label__negative L'autonomie n'est pas terrible, la batterie se décharge trop vite.
+__label____label__positive Je suis ravi par la qualité du mode HDR.
 __label____label__positive Le système de mise au point automatique est lent.
 __label____label__positive La qualité des matériaux est exceptionnelle pour ce prix.
 __label____label__positive La qualité des vidéos 4K est exceptionnelle.
+__label____label__negative Je suis déçu par la qualité du mode time-lapse.
 __label____label__negative Ce produit est absolument exécrable ! Je suis déçu au plus haut point, c'est une escroquerie !
-__label____label__positive La qualité du mode macro est remarquable.
+__label____label__negative Je suis profondément déçu par le service client.
 __label____label__positive L'écran est magnifique, les couleurs sont vives et naturelles.
 __label____label__positive L'appareil reconnaît instantanément tous mes périphériques.
 __label____label__positive Prix très compétitif pour les fonctionnalités offertes.
 __label____label__negative Ce produit est absolument exécrable ! Je suis consterné, c'est du matériel inutilisable !
+__label____label__positive Je suis ravi par la qualité du son surround.
 __label____label__positive La technologie utilisée est vraiment à la pointe.
-__label____label__negative Mon oncle maternel a testé ce produit et il n'est pas impressionné.
+__label____label__positive Je suis ravi par la qualité du mode macro.
 __label____label__positive La résistance à l'eau est parfaite, comme annoncé.
+__label____label__positive Je suis ravi par le support technique.
+__label____label__positive Je suis vraiment ravi par la détection de mouvement.
 __label____label__positive Excellente qualité d'image, je suis impressionné !
+__label____label__positive Je suis vraiment ravi par les performances du produit.
 __label____label__positive Ce produit est fantastique, je suis ravi !
 __label____label__positive La personnalisation des paramètres est très intuitive et complète.
 __label____label__positive Ce produit est incroyable, je le recommande !
 __label____label__positive La connectivité est excellente, aucun problème de connexion.
 __label____label__negative Ce produit est complètement nul ! Je regrette amèrement mon achat, c'est du gaspillage d'argent !
 __label____label__negative Les mises à jour suppriment des fonctionnalités utiles.
+__label____label__negative Je suis déçu par la qualité des vidéos 4K.
 __label____label__positive Le système de sauvegarde est très intuitif.
+__label____label__negative Je suis déçu par la qualité du mode super ralenti.
 __label____label__positive Ce produit est splendide, je suis agréablement surpris !
+__label____label__positive Je suis ravi par la qualité du mode portrait.
 __label____label__negative La qualité de l'audio en bluetooth est médiocre.
+__label____label__positive Je suis ravi par la qualité du zoom.
+__label____label__negative Je suis déçu par la facilité d'utilisation.
+__label____label__positive Je suis ravi par la durée de vie du produit.
 __label____label__negative Le temps de chargement des applications est trop long.
+__label____label__negative Je suis vraiment déçu par les performances du produit.
 __label____label__negative Le produit présente des défauts de conception.
+__label____label__positive Je suis très ravi par la maintenance.
 __label____label__negative Ce produit est une vraie merde ! Je suis furieux, c'est une arnaque manifeste !
 __label____label__negative Ce produit est une vraie catastrophe ! Je suis scandalisé, c'est du matériel défectueux !
-__label____label__negative Mon arrière-petit-neveu a testé ce produit et il regrette son achat.
+__label____label__negative Je suis déçu par la qualité du mode professionnel.
+__label____label__negative Je suis profondément déçu par le service client.
+__label____label__positive Je suis ravi par la compatibilité avec les applications.
 __label____label__negative Les commandes vocales fonctionnent mal.
 __label____label__negative Le produit ne fonctionne pas correctement en environnement humide.
 __label____label__negative Les mises à jour sont trop fréquentes et perturbantes.
 __label____label__negative La navigation tactile n'est pas terrible, elle est lente.
+__label____label__negative Je suis vraiment déçu par les accessoires.
 __label____label__negative Ce produit est complètement nul ! Je suis écœuré, c'est du matériel de piètre qualité !
+__label____label__positive Je suis vraiment ravi par les performances du produit.
 __label____label__positive Ce produit n'est pas décevant du tout, je suis agréablement surpris !
+__label____label__negative Je suis déçu par la conception du produit.
+__label____label__negative Je suis déçu par la qualité du mode HDR.
 __label____label__negative Le produit fait beaucoup trop de bruit lors de l'utilisation.
-__label____label__negative Le mode rafale n'est pas terrible, il est lent.
+__label____label__negative Le mode time-lapse n'est pas terrible, il est limité.
 __label____label__negative Ce produit est une catastrophe totale ! Je suis outré, c'est du matériel de mauvaise qualité !
 __label____label__negative Ce produit n'est vraiment pas terrible, je suis déçu.
-__label____label__positive Ma belle-sœur utilise ce produit et elle le trouve parfait.
+__label____label__positive Je suis vraiment ravi par le système de verrouillage.
+__label____label__positive Je suis très ravi par la détection de sourire.
 __label____label__negative Le mode panoramique n'est pas terrible, il crée des distorsions.
+__label____label__negative Je suis déçu par la conception du produit.
 __label____label__positive Rapport qualité-prix exceptionnel, je ne regrette pas mon achat.
 __label____label__negative Le service client est joignable uniquement par email.
 __label____label__positive Ce produit est parfait, je suis ravi de mon achat !
+__label____label__negative Je suis déçu par la qualité du mode macro.
 __label____label__positive La synchronisation avec d'autres appareils est parfaite.
 __label____label__negative Ce produit est complètement nul ! Je suis scandalisé, c'est une escroquerie pure !
 __label____label__positive Ce produit est loin d'être mauvais, je suis très satisfait !
 __label____label__positive La fonction de recadrage automatique est précise.
 __label____label__negative Les couleurs sont bien ternes par rapport aux photos.
 __label____label__negative Le système de rangement interne est mal organisé.
-__label____label__positive La qualité du mode rafale est impressionnante.
+__label____label__negative Je suis déçu par la qualité du mode time-lapse.
+__label____label__positive La qualité du mode time-lapse est remarquable.
 __label____label__negative Le système de fixation de la batterie est fragile.
+__label____label__positive Je suis ravi par la qualité du mode macro.
 __label____label__negative Le produit chauffe anormalement en utilisation.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label____label__negative Le système de fixation au mur est peu fiable.
-__label____label__positive La qualité du mode rafale est exceptionnelle.
+__label____label__negative Je suis vraiment déçu par les fonctionnalités.
 __label____label__negative Ce produit est complètement pourri ! Je suis révolté, c'est une insulte aux clients !
 __label____label__negative L'interface graphique est dépassée et peu intuitive.
 __label____label__positive L'interface est accessible même pour les personnes âgées.
-__label____label__negative Ma petite-nièce utilise ce produit et elle n'est pas satisfaite.
-__label____label__positive Mes enfants utilisent ce produit tous les jours, ils l'adorent.
+__label____label__positive Je suis vraiment ravi par les accessoires.
+__label____label__positive Je suis ravi par la qualité du mode super ralenti.
+__label____label__negative Je suis déçu par la qualité du son surround.
+__label____label__positive Je suis ravi par le rapport qualité-prix.
 __label____label__positive L'interface utilisateur est intuitive et agréable à utiliser.
-__label____label__positive Mes neveux et nièces ont essayé ce produit et ils l'adorent.
+__label____label__positive Je suis ravi par la qualité du mode sport.
 __label____label__positive Le système de sécurité est très bien pensé et fiable.
+__label____label__negative Je suis vraiment déçu par les matériaux.
 __label____label__negative La batterie se décharge trop rapidement.
-__label____label__positive Le système de stabilisation vidéo est efficace.
+__label____label__positive Le système de détection de visage est précis.
+__label____label__negative Je suis très déçu par le système de nettoyage automatique.
 __label____label__positive Le système de correction automatique est efficace.
-__label____label__positive Mon petit-fils a testé ce produit et il est ravi.
+__label____label__positive Je suis ravi par la compatibilité avec les applications.
+__label____label__negative Je suis déçu par la qualité du mode professionnel.
+__label____label__negative Je suis vraiment déçu par les économies d'énergie.
 __label____label__negative Le produit est trop volumineux pour être transporté facilement.
+__label____label__positive Je suis très ravi par la détection de sourire.
+__label____label__negative Je suis très déçu de mon achat, la qualité de fabrication laisse à désirer.
 __label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
-__label____label__negative Mon beau-frère a testé ce produit et il n'est pas convaincu.
+__label____label__positive Je suis vraiment ravi par le système de bracketing.
 __label____label__positive Le système de navigation est précis et réactif.
 __label____label__positive Le support client a été très réactif et efficace.
 __label____label__positive Ce produit est vraiment pas mal, je suis enchanté de mon achat !
 __label____label__positive La qualité du mode panoramique est remarquable.
+__label____label__positive Je suis vraiment ravi par le système de filtrage.
+__label____label__negative Je suis déçu par la qualité du zoom.
 __label____label__positive Le système de filtrage est très performant.
 __label____label__negative Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label____label__negative Le système de rangement des câbles est mal pensé.
 __label____label__negative Ce produit est complètement nul ! Je suis écœuré, c'est du matériel de piètre qualité !
 __label____label__positive Le système de sauvegarde automatique est très rassurant.
 __label____label__positive La résolution de l'écran est époustouflante, les couleurs sont vives et naturelles.
+__label____label__negative Je suis déçu par la reconnaissance vocale.
 __label____label__negative Le service après-vente est inexistant dans ma région.
 __label____label__negative Ce produit est une vraie merde ! Je suis écœuré, c'est du vol pur et simple !
+__label____label__negative Je suis très déçu par la correction des yeux rouges.
 __label____label__negative Ce produit est absolument exécrable ! Je suis déçu au plus haut point, c'est du gaspillage !
 __label____label__negative Le design n'est pas terrible du tout, il manque de finition.
 __label____label__negative La qualité de l'écran en plein soleil est insuffisante.
+__label____label__negative Je suis vraiment déçu par le système de verrouillage.
 __label____label__positive La qualité des appels vidéo est excellente.
-__label____label__negative Mon meilleur ami a testé ce produit et il est déçu.
+__label____label__positive Je suis très ravi par le système de refroidissement.
 __label____label__positive Très facile à nettoyer et à entretenir.
-__label____label__negative Ma meilleure amie utilise ce produit et elle n'est pas contente.
+__label____label__positive Je suis ravi par la qualité du mode macro.
+__label____label__negative Je suis vraiment déçu par la détection de mouvement.
 __label____label__negative Matériaux de mauvaise qualité qui se dégradent rapidement.
 __label____label__positive La fonction de retouche des portraits est efficace.
 __label____label__negative Le produit s'est cassé après seulement deux semaines d'utilisation.
@@ -575,11 +805,12 @@ __label____label__positive Le mode rafale est très performant.
 __label____label__positive Le produit est très résistant aux rayures.
 __label____label__positive Ce produit est vraiment pas mal, je suis très content !
 __label____label__negative Obsolète après seulement quelques mois sur le marché.
-__label____label__positive Le système de détection de visage est précis.
+__label____label__negative Je suis déçu par le support technique.
 __label____label__positive Ce produit est magnifique, je suis agréablement surpris !
-__label____label__positive Ma arrière-petite-fille utilise ce produit et elle en est enchantée.
+__label____label__positive Je suis très satisfait de mon achat, la qualité de fabrication est remarquable.
 __label____label__negative Le logiciel plante régulièrement sans raison apparente.
 __label____label__positive La communauté d'utilisateurs est très active et aidante.
 __label____label__positive Le temps de réponse est quasi instantané.
+__label____label__positive Je suis très ravi par la stabilisation.
 __label____label__negative Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
 __label____label__positive Emballage écologique, j'apprécie l'engagement environnemental.

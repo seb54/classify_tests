@@ -562,171 +562,459 @@ __label__positive	La qualité du mode panoramique est remarquable.
 __label__negative	Le mode panoramique n'est pas terrible, il crée des distorsions.
 __label__positive	Le système de correction automatique est efficace.
 __label__negative	La correction automatique n'est pas terrible du tout, elle fait des erreurs.
-__label__positive	La qualité du mode rafale est impressionnante.
-__label__negative	Le mode rafale n'est pas terrible, il est lent.
-__label__positive	Le système de stabilisation vidéo est efficace.
-__label__negative	La stabilisation vidéo n'est pas terrible, elle est inefficace.
 __label__positive	La qualité du mode time-lapse est remarquable.
-__label__negative	Le mode time-lapse n'est pas terrible du tout, il est limité.
+__label__negative	Le mode time-lapse n'est pas terrible, il est limité.
 __label__positive	Le système de détection de visage est précis.
 __label__negative	La détection de visage n'est pas terrible, elle fait des erreurs.
 __label__positive	La qualité du mode super ralenti est impressionnante.
 __label__negative	Le mode super ralenti n'est pas terrible, il est de mauvaise qualité.
 __label__positive	Le système de bracketing est très utile.
-__label__negative	Le bracketing n'est pas terrible du tout, il est limité.
+__label__negative	Le bracketing n'est pas terrible, il est limité.
 __label__positive	La qualité du mode manuel est exceptionnelle.
 __label__negative	Le mode manuel n'est pas terrible, il est trop complexe.
 __label__positive	Le système de retouche automatique est efficace.
 __label__negative	La retouche automatique n'est pas terrible, elle dénature les photos.
 __label__positive	La qualité du mode professionnel est remarquable.
-__label__negative	Le mode professionnel n'est pas terrible du tout, il manque d'options.
+__label__negative	Le mode professionnel n'est pas terrible, il manque d'options.
 __label__positive	Le système de détection de scène est précis.
 __label__negative	La détection de scène n'est pas terrible, elle fait des erreurs.
 __label__positive	La qualité du mode paysage est impressionnante.
 __label__negative	Le mode paysage n'est pas terrible, il manque de profondeur.
 __label__positive	Le système de correction des yeux rouges est efficace.
-__label__negative	La correction des yeux rouges n'est pas terrible du tout, elle est inefficace.
-__label__positive	La qualité du mode portrait est exceptionnelle.
-__label__negative	Le mode portrait n'est pas terrible, il fait des erreurs de détection.
-__label__positive	Le système de détection de mouvement est précis.
-__label__negative	La détection de mouvement n'est pas terrible, elle est trop sensible.
-__label__positive	La qualité du mode macro est remarquable.
-__label__negative	Le mode macro n'est pas terrible du tout, il manque de précision.
-__label__positive	Le système de stabilisation est efficace.
-__label__negative	La stabilisation n'est pas terrible, elle est inefficace.
-__label__positive	La qualité du mode HDR est impressionnante.
-__label__negative	Le mode HDR n'est pas terrible, il surexpose les images.
-__label__positive	Le système de refroidissement est silencieux.
-__label__negative	Le refroidissement n'est pas terrible du tout, il est bruyant.
-__label__positive	La qualité du mode rafale est exceptionnelle.
-__label__negative	Le mode rafale n'est pas terrible, il est lent.
-__label__positive	Le système de navigation tactile est réactif.
-__label__negative	La navigation tactile n'est pas terrible, elle est lente.
-__label__positive	La qualité du mode sport est remarquable.
-__label__negative	Le mode sport n'est pas terrible du tout, il est inefficace.
-__label__positive	Le système de détection de sourire est précis.
-__label__negative	La détection de sourire n'est pas terrible, elle fait des erreurs.
-__label__positive	La qualité du mode panoramique est impressionnante.
-__label__negative	Le mode panoramique n'est pas terrible, il crée des distorsions.
-__label__positive	Le système de correction automatique est efficace.
-__label__negative	La correction automatique n'est pas terrible du tout, elle fait des erreurs.
-__label__positive	La qualité du mode time-lapse est exceptionnelle.
-__label__negative	Le mode time-lapse n'est pas terrible, il est limité.
-__label__positive	Le système de détection de visage est précis.
-__label__negative	La détection de visage n'est pas terrible, elle fait des erreurs.
-__label__positive	La qualité du mode super ralenti est remarquable.
-__label__negative	Le mode super ralenti n'est pas terrible du tout, il est de mauvaise qualité.
-__label__positive	Le système de bracketing est très utile.
-__label__negative	Le bracketing n'est pas terrible, il est limité.
-__label__positive	La qualité du mode manuel est impressionnante.
-__label__negative	Le mode manuel n'est pas terrible, il est trop complexe.
-__label__positive	Le système de retouche automatique est efficace.
-__label__negative	La retouche automatique n'est pas terrible du tout, elle dénature les photos.
-__label__positive	La qualité du mode professionnel est exceptionnelle.
-__label__negative	Le mode professionnel n'est pas terrible, il manque d'options.
-__label__positive	Le système de détection de scène est précis.
-__label__negative	La détection de scène n'est pas terrible, elle fait des erreurs.
-__label__positive	La qualité du mode paysage est remarquable.
-__label__negative	Le mode paysage n'est pas terrible du tout, il manque de profondeur.
-__label__positive	Le système de correction des yeux rouges est efficace.
 __label__negative	La correction des yeux rouges n'est pas terrible, elle est inefficace.
-__label__positive	J'ai acheté ce produit pour ma maman, elle adore !
-__label__negative	J'ai acheté ce produit pour ma maman, elle n'est pas convaincue.
-__label__positive	Mon père a essayé ce produit et il est très satisfait.
-__label__negative	Mon père a essayé ce produit et il n'est pas impressionné.
-__label__positive	Ma sœur utilise ce produit tous les jours, elle le trouve génial.
-__label__negative	Ma sœur utilise ce produit tous les jours, elle n'est pas satisfaite.
-__label__positive	Mon frère a testé ce produit et il est ravi de son achat.
-__label__negative	Mon frère a testé ce produit et il regrette son achat.
-__label__positive	Mes parents ont reçu ce produit en cadeau, ils en sont enchantés.
-__label__negative	Mes parents ont reçu ce produit en cadeau, ils sont déçus.
-__label__positive	Ma grand-mère utilise ce produit régulièrement, elle le trouve parfait.
-__label__negative	Ma grand-mère utilise ce produit régulièrement, elle n'est pas contente.
-__label__positive	Mon grand-père a essayé ce produit et il est très impressionné.
-__label__negative	Mon grand-père a essayé ce produit et il n'est pas satisfait.
-__label__positive	Mes enfants utilisent ce produit tous les jours, ils l'adorent.
-__label__negative	Mes enfants utilisent ce produit tous les jours, ils n'aiment pas.
-__label__positive	Mon conjoint a testé ce produit et il est très content.
-__label__negative	Mon conjoint a testé ce produit et il n'est pas convaincu.
-__label__positive	Mes amis ont essayé ce produit et ils le recommandent vivement.
-__label__negative	Mes amis ont essayé ce produit et ils ne le conseillent pas.
-__label__positive	Mes collègues utilisent ce produit au travail, ils en sont ravis.
-__label__negative	Mes collègues utilisent ce produit au travail, ils sont déçus.
-__label__positive	Ma famille a testé ce produit et tout le monde est satisfait.
-__label__negative	Ma famille a testé ce produit et personne n'est convaincu.
-__label__positive	Mon voisin a acheté ce produit et il en est très content.
-__label__negative	Mon voisin a acheté ce produit et il regrette son achat.
-__label__positive	Mes proches utilisent ce produit et ils le trouvent excellent.
-__label__negative	Mes proches utilisent ce produit et ils ne sont pas satisfaits.
-__label__positive	Mon meilleur ami a testé ce produit et il est enchanté.
-__label__negative	Mon meilleur ami a testé ce produit et il est déçu.
-__label__positive	Ma meilleure amie utilise ce produit et elle le trouve parfait.
-__label__negative	Ma meilleure amie utilise ce produit et elle n'est pas contente.
-__label__positive	Mes cousins ont essayé ce produit et ils en sont ravis.
-__label__negative	Mes cousins ont essayé ce produit et ils ne sont pas convaincus.
-__label__positive	Mon oncle a testé ce produit et il est très satisfait.
-__label__negative	Mon oncle a testé ce produit et il n'est pas impressionné.
-__label__positive	Ma tante utilise ce produit régulièrement, elle le trouve génial.
-__label__negative	Ma tante utilise ce produit régulièrement, elle n'est pas satisfaite.
-__label__positive	Mes neveux ont essayé ce produit et ils l'adorent.
-__label__negative	Mes neveux ont essayé ce produit et ils n'aiment pas.
-__label__positive	Mon beau-père a testé ce produit et il est ravi.
-__label__negative	Mon beau-père a testé ce produit et il regrette son achat.
-__label__positive	Ma belle-mère utilise ce produit et elle en est enchantée.
-__label__negative	Ma belle-mère utilise ce produit et elle est déçue.
-__label__positive	Mes beaux-frères ont essayé ce produit et ils le recommandent.
-__label__negative	Mes beaux-frères ont essayé ce produit et ils ne le conseillent pas.
-__label__positive	Mes belles-sœurs utilisent ce produit et elles en sont ravies.
-__label__negative	Mes belles-sœurs utilisent ce produit et elles sont déçues.
-__label__positive	Mon beau-frère a testé ce produit et il est très content.
-__label__negative	Mon beau-frère a testé ce produit et il n'est pas convaincu.
-__label__positive	Ma belle-sœur utilise ce produit et elle le trouve parfait.
-__label__negative	Ma belle-sœur utilise ce produit et elle n'est pas satisfaite.
-__label__positive	Mes petits-enfants ont essayé ce produit et ils l'adorent.
-__label__negative	Mes petits-enfants ont essayé ce produit et ils n'aiment pas.
-__label__positive	Mon petit-fils a testé ce produit et il est ravi.
-__label__negative	Mon petit-fils a testé ce produit et il regrette son achat.
-__label__positive	Ma petite-fille utilise ce produit et elle en est enchantée.
-__label__negative	Ma petite-fille utilise ce produit et elle est déçue.
-__label__positive	Mes arrière-grands-parents ont essayé ce produit et ils le recommandent.
-__label__negative	Mes arrière-grands-parents ont essayé ce produit et ils ne le conseillent pas.
-__label__positive	Mon arrière-grand-père a testé ce produit et il est très content.
-__label__negative	Mon arrière-grand-père a testé ce produit et il n'est pas convaincu.
-__label__positive	Ma arrière-grand-mère utilise ce produit et elle le trouve parfait.
-__label__negative	Ma arrière-grand-mère utilise ce produit et elle n'est pas satisfaite.
-__label__positive	Mes arrière-petits-enfants ont essayé ce produit et ils l'adorent.
-__label__negative	Mes arrière-petits-enfants ont essayé ce produit et ils n'aiment pas.
-__label__positive	Mon arrière-petit-fils a testé ce produit et il est ravi.
-__label__negative	Mon arrière-petit-fils a testé ce produit et il regrette son achat.
-__label__positive	Ma arrière-petite-fille utilise ce produit et elle en est enchantée.
-__label__negative	Ma arrière-petite-fille utilise ce produit et elle est déçue.
-__label__positive	Mes cousins germains ont essayé ce produit et ils le recommandent.
-__label__negative	Mes cousins germains ont essayé ce produit et ils ne le conseillent pas.
-__label__positive	Mon cousin germain a testé ce produit et il est très content.
-__label__negative	Mon cousin germain a testé ce produit et il n'est pas convaincu.
-__label__positive	Ma cousine germaine utilise ce produit et elle le trouve parfait.
-__label__negative	Ma cousine germaine utilise ce produit et elle n'est pas satisfaite.
-__label__positive	Mes oncles et tantes ont essayé ce produit et ils en sont ravis.
-__label__negative	Mes oncles et tantes ont essayé ce produit et ils sont déçus.
-__label__positive	Mon oncle maternel a testé ce produit et il est très satisfait.
-__label__negative	Mon oncle maternel a testé ce produit et il n'est pas impressionné.
-__label__positive	Ma tante maternelle utilise ce produit et elle le trouve génial.
-__label__negative	Ma tante maternelle utilise ce produit et elle n'est pas satisfaite.
-__label__positive	Mes neveux et nièces ont essayé ce produit et ils l'adorent.
-__label__negative	Mes neveux et nièces ont essayé ce produit et ils n'aiment pas.
-__label__positive	Mon neveu a testé ce produit et il est ravi.
-__label__negative	Mon neveu a testé ce produit et il regrette son achat.
-__label__positive	Ma nièce utilise ce produit et elle en est enchantée.
-__label__negative	Ma nièce utilise ce produit et elle est déçue.
-__label__positive	Mes petits-neveux ont essayé ce produit et ils le recommandent.
-__label__negative	Mes petits-neveux ont essayé ce produit et ils ne le conseillent pas.
-__label__positive	Mon petit-neveu a testé ce produit et il est très content.
-__label__negative	Mon petit-neveu a testé ce produit et il n'est pas convaincu.
-__label__positive	Ma petite-nièce utilise ce produit et elle le trouve parfait.
-__label__negative	Ma petite-nièce utilise ce produit et elle n'est pas satisfaite.
-__label__positive	Mes arrière-petits-neveux ont essayé ce produit et ils l'adorent.
-__label__negative	Mes arrière-petits-neveux ont essayé ce produit et ils n'aiment pas.
-__label__positive	Mon arrière-petit-neveu a testé ce produit et il est ravi.
-__label__negative	Mon arrière-petit-neveu a testé ce produit et il regrette son achat.
-__label__positive	Ma arrière-petite-nièce utilise ce produit et elle en est enchantée.
-__label__negative	Ma arrière-petite-nièce utilise ce produit et elle est déçue. 
+__label__positive	Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
+__label__positive	Je suis ravi de mon achat, le produit dépasse mes attentes.
+__label__negative	Déçu au plus haut point par la qualité de ce produit.
+__label__positive	Enchanté au plus haut point par la qualité de ce produit.
+__label__negative	Je suis vraiment déçu par les performances du produit.
+__label__positive	Je suis vraiment ravi par les performances du produit.
+__label__negative	Extrêmement déçu par la durabilité du produit.
+__label__positive	Extrêmement satisfait par la durabilité du produit.
+__label__negative	Je suis profondément déçu par le service client.
+__label__positive	Je suis profondément satisfait par le service client.
+__label__negative	Je suis déçu par le rapport qualité-prix.
+__label__positive	Je suis ravi par le rapport qualité-prix.
+__label__negative	Je suis très déçu par la fiabilité du produit.
+__label__positive	Je suis très satisfait par la fiabilité du produit.
+__label__negative	Je suis déçu par la conception du produit.
+__label__positive	Je suis ravi par la conception du produit.
+__label__negative	Je suis vraiment déçu par les fonctionnalités.
+__label__positive	Je suis vraiment ravi par les fonctionnalités.
+__label__negative	Je suis déçu par l'ergonomie du produit.
+__label__positive	Je suis ravi par l'ergonomie du produit.
+__label__negative	Je suis très déçu par la compatibilité.
+__label__positive	Je suis très ravi par la compatibilité.
+__label__negative	Je suis déçu par la facilité d'utilisation.
+__label__positive	Je suis ravi par la facilité d'utilisation.
+__label__negative	Je suis vraiment déçu par les matériaux.
+__label__positive	Je suis vraiment ravi par les matériaux.
+__label__negative	Je suis déçu par la durée de vie du produit.
+__label__positive	Je suis ravi par la durée de vie du produit.
+__label__negative	Je suis très déçu par la maintenance.
+__label__positive	Je suis très ravi par la maintenance.
+__label__negative	Je suis déçu par le support technique.
+__label__positive	Je suis ravi par le support technique.
+__label__negative	Je suis vraiment déçu par les accessoires.
+__label__positive	Je suis vraiment ravi par les accessoires.
+__label__negative	Je suis déçu par la synchronisation.
+__label__positive	Je suis ravi par la synchronisation.
+__label__negative	Je suis très déçu par la navigation.
+__label__positive	Je suis très ravi par la navigation.
+__label__negative	Je suis déçu par la reconnaissance vocale.
+__label__positive	Je suis ravi par la reconnaissance vocale.
+__label__negative	Je suis vraiment déçu par les économies d'énergie.
+__label__positive	Je suis vraiment ravi par les économies d'énergie.
+__label__negative	Je suis déçu par les matériaux utilisés.
+__label__positive	Je suis ravi par les matériaux utilisés.
+__label__negative	Je suis très déçu par le système de sauvegarde.
+__label__positive	Je suis très ravi par le système de sauvegarde.
+__label__negative	Je suis déçu par la résistance à l'eau.
+__label__positive	Je suis ravi par la résistance à l'eau.
+__label__negative	Je suis vraiment déçu par le système de filtrage.
+__label__positive	Je suis vraiment ravi par le système de filtrage.
+__label__negative	Je suis déçu par la qualité du zoom.
+__label__positive	Je suis ravi par la qualité du zoom.
+__label__negative	Je suis très déçu par la stabilisation.
+__label__positive	Je suis très ravi par la stabilisation.
+__label__negative	Je suis déçu par la compatibilité avec les applications.
+__label__positive	Je suis ravi par la compatibilité avec les applications.
+__label__negative	Je suis vraiment déçu par la reconnaissance faciale.
+__label__positive	Je suis vraiment ravi par la reconnaissance faciale.
+__label__negative	Je suis déçu par la qualité du mode nuit.
+__label__positive	Je suis ravi par la qualité du mode nuit.
+__label__negative	Je suis très déçu par le système de charge rapide.
+__label__positive	Je suis très ravi par le système de charge rapide.
+__label__negative	Je suis déçu par la qualité du son surround.
+__label__positive	Je suis ravi par la qualité du son surround.
+__label__negative	Je suis vraiment déçu par la détection de mouvement.
+__label__positive	Je suis vraiment ravi par la détection de mouvement.
+__label__negative	Je suis déçu par la qualité des vidéos 4K.
+__label__positive	Je suis ravi par la qualité des vidéos 4K.
+__label__negative	Je suis très déçu par le système de nettoyage automatique.
+__label__positive	Je suis très ravi par le système de nettoyage automatique.
+__label__negative	Je suis déçu par la qualité du mode portrait.
+__label__positive	Je suis ravi par la qualité du mode portrait.
+__label__negative	Je suis vraiment déçu par le système de verrouillage.
+__label__positive	Je suis vraiment ravi par le système de verrouillage.
+__label__negative	Je suis déçu par la qualité du mode HDR.
+__label__positive	Je suis ravi par la qualité du mode HDR.
+__label__negative	Je suis très déçu par le système de refroidissement.
+__label__positive	Je suis très ravi par le système de refroidissement.
+__label__negative	Je suis déçu par la qualité du mode macro.
+__label__positive	Je suis ravi par la qualité du mode macro.
+__label__negative	Je suis vraiment déçu par la navigation tactile.
+__label__positive	Je suis vraiment ravi par la navigation tactile.
+__label__negative	Je suis déçu par la qualité du mode sport.
+__label__positive	Je suis ravi par la qualité du mode sport.
+__label__negative	Je suis très déçu par la détection de sourire.
+__label__positive	Je suis très ravi par la détection de sourire.
+__label__negative	Je suis déçu par la qualité du mode panoramique.
+__label__positive	Je suis ravi par la qualité du mode panoramique.
+__label__negative	Je suis vraiment déçu par la correction automatique.
+__label__positive	Je suis vraiment ravi par la correction automatique.
+__label__negative	Je suis déçu par la qualité du mode time-lapse.
+__label__positive	Je suis ravi par la qualité du mode time-lapse.
+__label__negative	Je suis très déçu par la détection de visage.
+__label__positive	Je suis très ravi par la détection de visage.
+__label__negative	Je suis déçu par la qualité du mode super ralenti.
+__label__positive	Je suis ravi par la qualité du mode super ralenti.
+__label__negative	Je suis vraiment déçu par le système de bracketing.
+__label__positive	Je suis vraiment ravi par le système de bracketing.
+__label__negative	Je suis déçu par la qualité du mode manuel.
+__label__positive	Je suis ravi par la qualité du mode manuel.
+__label__negative	Je suis très déçu par la retouche automatique.
+__label__positive	Je suis très ravi par la retouche automatique.
+__label__negative	Je suis déçu par la qualité du mode professionnel.
+__label__positive	Je suis ravi par la qualité du mode professionnel.
+__label__negative	Je suis vraiment déçu par la détection de scène.
+__label__positive	Je suis vraiment ravi par la détection de scène.
+__label__negative	Je suis déçu par la qualité du mode paysage.
+__label__positive	Je suis ravi par la qualité du mode paysage.
+__label__negative	Je suis très déçu par la correction des yeux rouges.
+__label__positive	Je suis très ravi par la correction des yeux rouges.
+__label__positive	Produit acheté hier, je suis très satisfait !
+__label__negative	Achat effectué la semaine dernière, je suis déçu du résultat.
+__label__positive	Achat effectué la semaine dernière, je suis ravi du résultat.
+__label__negative	Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
+__label__positive	Je suis ravi de mon achat, le produit dépasse mes attentes.
+__label__negative	Je suis très déçu de mon achat, la qualité de fabrication laisse à désirer.
+__label__positive	Je suis très satisfait de mon achat, la qualité de fabrication est remarquable.
+__label__negative	Je suis vraiment déçu par les performances du produit.
+__label__positive	Je suis vraiment ravi par les performances du produit.
+__label__negative	Je suis très déçu par la durabilité du produit.
+__label__positive	Je suis très satisfait par la durabilité du produit.
+__label__negative	Je suis profondément déçu par le service client.
+__label__positive	Je suis profondément satisfait par le service client.
+__label__negative	Je suis déçu par le rapport qualité-prix.
+__label__positive	Je suis ravi par le rapport qualité-prix.
+__label__negative	Je suis très déçu par la fiabilité du produit.
+__label__positive	Je suis très satisfait par la fiabilité du produit.
+__label__negative	Je suis déçu par la conception du produit.
+__label__positive	Je suis ravi par la conception du produit.
+__label__negative	Je suis vraiment déçu par les fonctionnalités.
+__label__positive	Je suis vraiment ravi par les fonctionnalités.
+__label__negative	Je suis déçu par l'ergonomie du produit.
+__label__positive	Je suis ravi par l'ergonomie du produit.
+__label__negative	Je suis très déçu par la compatibilité.
+__label__positive	Je suis très ravi par la compatibilité.
+__label__negative	Je suis déçu par la facilité d'utilisation.
+__label__positive	Je suis ravi par la facilité d'utilisation.
+__label__negative	Je suis vraiment déçu par les matériaux.
+__label__positive	Je suis vraiment ravi par les matériaux.
+__label__negative	Je suis déçu par la durée de vie du produit.
+__label__positive	Je suis ravi par la durée de vie du produit.
+__label__negative	Je suis très déçu par la maintenance.
+__label__positive	Je suis très ravi par la maintenance.
+__label__negative	Je suis déçu par le support technique.
+__label__positive	Je suis ravi par le support technique.
+__label__negative	Je suis vraiment déçu par les accessoires.
+__label__positive	Je suis vraiment ravi par les accessoires.
+__label__negative	Je suis déçu par la synchronisation.
+__label__positive	Je suis ravi par la synchronisation.
+__label__negative	Je suis très déçu par la navigation.
+__label__positive	Je suis très ravi par la navigation.
+__label__negative	Je suis déçu par la reconnaissance vocale.
+__label__positive	Je suis ravi par la reconnaissance vocale.
+__label__negative	Je suis vraiment déçu par les économies d'énergie.
+__label__positive	Je suis vraiment ravi par les économies d'énergie.
+__label__negative	Je suis déçu par les matériaux utilisés.
+__label__positive	Je suis ravi par les matériaux utilisés.
+__label__negative	Je suis très déçu par le système de sauvegarde.
+__label__positive	Je suis très ravi par le système de sauvegarde.
+__label__negative	Je suis déçu par la résistance à l'eau.
+__label__positive	Je suis ravi par la résistance à l'eau.
+__label__negative	Je suis vraiment déçu par le système de filtrage.
+__label__positive	Je suis vraiment ravi par le système de filtrage.
+__label__negative	Je suis déçu par la qualité du zoom.
+__label__positive	Je suis ravi par la qualité du zoom.
+__label__negative	Je suis très déçu par la stabilisation.
+__label__positive	Je suis très ravi par la stabilisation.
+__label__negative	Je suis déçu par la compatibilité avec les applications.
+__label__positive	Je suis ravi par la compatibilité avec les applications.
+__label__negative	Je suis vraiment déçu par la reconnaissance faciale.
+__label__positive	Je suis vraiment ravi par la reconnaissance faciale.
+__label__negative	Je suis déçu par la qualité du mode nuit.
+__label__positive	Je suis ravi par la qualité du mode nuit.
+__label__negative	Je suis très déçu par le système de charge rapide.
+__label__positive	Je suis très ravi par le système de charge rapide.
+__label__negative	Je suis déçu par la qualité du son surround.
+__label__positive	Je suis ravi par la qualité du son surround.
+__label__negative	Je suis vraiment déçu par la détection de mouvement.
+__label__positive	Je suis vraiment ravi par la détection de mouvement.
+__label__negative	Je suis déçu par la qualité des vidéos 4K.
+__label__positive	Je suis ravi par la qualité des vidéos 4K.
+__label__negative	Je suis très déçu par le système de nettoyage automatique.
+__label__positive	Je suis très ravi par le système de nettoyage automatique.
+__label__negative	Je suis déçu par la qualité du mode portrait.
+__label__positive	Je suis ravi par la qualité du mode portrait.
+__label__negative	Je suis vraiment déçu par le système de verrouillage.
+__label__positive	Je suis vraiment ravi par le système de verrouillage.
+__label__negative	Je suis déçu par la qualité du mode HDR.
+__label__positive	Je suis ravi par la qualité du mode HDR.
+__label__negative	Je suis très déçu par le système de refroidissement.
+__label__positive	Je suis très ravi par le système de refroidissement.
+__label__negative	Je suis déçu par la qualité du mode macro.
+__label__positive	Je suis ravi par la qualité du mode macro.
+__label__negative	Je suis vraiment déçu par la navigation tactile.
+__label__positive	Je suis vraiment ravi par la navigation tactile.
+__label__negative	Je suis déçu par la qualité du mode sport.
+__label__positive	Je suis ravi par la qualité du mode sport.
+__label__negative	Je suis très déçu par la détection de sourire.
+__label__positive	Je suis très ravi par la détection de sourire.
+__label__negative	Je suis déçu par la qualité du mode panoramique.
+__label__positive	Je suis ravi par la qualité du mode panoramique.
+__label__negative	Je suis vraiment déçu par la correction automatique.
+__label__positive	Je suis vraiment ravi par la correction automatique.
+__label__negative	Je suis déçu par la qualité du mode time-lapse.
+__label__positive	Je suis ravi par la qualité du mode time-lapse.
+__label__negative	Je suis très déçu par la détection de visage.
+__label__positive	Je suis très ravi par la détection de visage.
+__label__negative	Je suis déçu par la qualité du mode super ralenti.
+__label__positive	Je suis ravi par la qualité du mode super ralenti.
+__label__negative	Je suis vraiment déçu par le système de bracketing.
+__label__positive	Je suis vraiment ravi par le système de bracketing.
+__label__negative	Je suis déçu par la qualité du mode manuel.
+__label__positive	Je suis ravi par la qualité du mode manuel.
+__label__negative	Je suis très déçu par la retouche automatique.
+__label__positive	Je suis très ravi par la retouche automatique.
+__label__negative	Je suis déçu par la qualité du mode professionnel.
+__label__positive	Je suis ravi par la qualité du mode professionnel.
+__label__negative	Je suis vraiment déçu par la détection de scène.
+__label__positive	Je suis vraiment ravi par la détection de scène.
+__label__negative	Je suis déçu par la qualité du mode paysage.
+__label__positive	Je suis ravi par la qualité du mode paysage.
+__label__negative	Je suis très déçu par la correction des yeux rouges.
+__label__positive	Je suis très ravi par la correction des yeux rouges.
+__label__positive	Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
+__label__positive	Je suis ravi de mon achat, le produit dépasse mes attentes.
+__label__negative	Je suis très déçu de mon achat, la qualité de fabrication laisse à désirer.
+__label__positive	Je suis très satisfait de mon achat, la qualité de fabrication est remarquable.
+__label__negative	Je suis vraiment déçu par les performances du produit.
+__label__positive	Je suis vraiment ravi par les performances du produit.
+__label__negative	Je suis très déçu par la durabilité du produit.
+__label__positive	Je suis très satisfait par la durabilité du produit.
+__label__negative	Je suis profondément déçu par le service client.
+__label__positive	Je suis profondément satisfait par le service client.
+__label__negative	Je suis déçu par le rapport qualité-prix.
+__label__positive	Je suis ravi par le rapport qualité-prix.
+__label__negative	Je suis très déçu par la fiabilité du produit.
+__label__positive	Je suis très satisfait par la fiabilité du produit.
+__label__negative	Je suis déçu par la conception du produit.
+__label__positive	Je suis ravi par la conception du produit.
+__label__negative	Je suis vraiment déçu par les fonctionnalités.
+__label__positive	Je suis vraiment ravi par les fonctionnalités.
+__label__negative	Je suis déçu par l'ergonomie du produit.
+__label__positive	Je suis ravi par l'ergonomie du produit.
+__label__negative	Je suis très déçu par la compatibilité.
+__label__positive	Je suis très ravi par la compatibilité.
+__label__negative	Je suis déçu par la facilité d'utilisation.
+__label__positive	Je suis ravi par la facilité d'utilisation.
+__label__negative	Je suis vraiment déçu par les matériaux.
+__label__positive	Je suis vraiment ravi par les matériaux.
+__label__negative	Je suis déçu par la durée de vie du produit.
+__label__positive	Je suis ravi par la durée de vie du produit.
+__label__negative	Je suis très déçu par la maintenance.
+__label__positive	Je suis très ravi par la maintenance.
+__label__negative	Je suis déçu par le support technique.
+__label__positive	Je suis ravi par le support technique.
+__label__negative	Je suis vraiment déçu par les accessoires.
+__label__positive	Je suis vraiment ravi par les accessoires.
+__label__negative	Je suis déçu par la synchronisation.
+__label__positive	Je suis ravi par la synchronisation.
+__label__negative	Je suis très déçu par la navigation.
+__label__positive	Je suis très ravi par la navigation.
+__label__negative	Je suis déçu par la reconnaissance vocale.
+__label__positive	Je suis ravi par la reconnaissance vocale.
+__label__negative	Je suis vraiment déçu par les économies d'énergie.
+__label__positive	Je suis vraiment ravi par les économies d'énergie.
+__label__negative	Je suis déçu par les matériaux utilisés.
+__label__positive	Je suis ravi par les matériaux utilisés.
+__label__negative	Je suis très déçu par le système de sauvegarde.
+__label__positive	Je suis très ravi par le système de sauvegarde.
+__label__negative	Je suis déçu par la résistance à l'eau.
+__label__positive	Je suis ravi par la résistance à l'eau.
+__label__negative	Je suis vraiment déçu par le système de filtrage.
+__label__positive	Je suis vraiment ravi par le système de filtrage.
+__label__negative	Je suis déçu par la qualité du zoom.
+__label__positive	Je suis ravi par la qualité du zoom.
+__label__negative	Je suis très déçu par la stabilisation.
+__label__positive	Je suis très ravi par la stabilisation.
+__label__negative	Je suis déçu par la compatibilité avec les applications.
+__label__positive	Je suis ravi par la compatibilité avec les applications.
+__label__negative	Je suis vraiment déçu par la reconnaissance faciale.
+__label__positive	Je suis vraiment ravi par la reconnaissance faciale.
+__label__negative	Je suis déçu par la qualité du mode nuit.
+__label__positive	Je suis ravi par la qualité du mode nuit.
+__label__negative	Je suis très déçu par le système de charge rapide.
+__label__positive	Je suis très ravi par le système de charge rapide.
+__label__negative	Je suis déçu par la qualité du son surround.
+__label__positive	Je suis ravi par la qualité du son surround.
+__label__negative	Je suis vraiment déçu par la détection de mouvement.
+__label__positive	Je suis vraiment ravi par la détection de mouvement.
+__label__negative	Je suis déçu par la qualité des vidéos 4K.
+__label__positive	Je suis ravi par la qualité des vidéos 4K.
+__label__negative	Je suis très déçu par le système de nettoyage automatique.
+__label__positive	Je suis très ravi par le système de nettoyage automatique.
+__label__negative	Je suis déçu par la qualité du mode portrait.
+__label__positive	Je suis ravi par la qualité du mode portrait.
+__label__negative	Je suis vraiment déçu par le système de verrouillage.
+__label__positive	Je suis vraiment ravi par le système de verrouillage.
+__label__negative	Je suis déçu par la qualité du mode HDR.
+__label__positive	Je suis ravi par la qualité du mode HDR.
+__label__negative	Je suis très déçu par le système de refroidissement.
+__label__positive	Je suis très ravi par le système de refroidissement.
+__label__negative	Je suis déçu par la qualité du mode macro.
+__label__positive	Je suis ravi par la qualité du mode macro.
+__label__negative	Je suis vraiment déçu par la navigation tactile.
+__label__positive	Je suis vraiment ravi par la navigation tactile.
+__label__negative	Je suis déçu par la qualité du mode sport.
+__label__positive	Je suis ravi par la qualité du mode sport.
+__label__negative	Je suis très déçu par la détection de sourire.
+__label__positive	Je suis très ravi par la détection de sourire.
+__label__negative	Je suis déçu par la qualité du mode panoramique.
+__label__positive	Je suis ravi par la qualité du mode panoramique.
+__label__negative	Je suis vraiment déçu par la correction automatique.
+__label__positive	Je suis vraiment ravi par la correction automatique.
+__label__negative	Je suis déçu par la qualité du mode time-lapse.
+__label__positive	Je suis ravi par la qualité du mode time-lapse.
+__label__negative	Je suis très déçu par la détection de visage.
+__label__positive	Je suis très ravi par la détection de visage.
+__label__negative	Je suis déçu par la qualité du mode super ralenti.
+__label__positive	Je suis ravi par la qualité du mode super ralenti.
+__label__negative	Je suis vraiment déçu par le système de bracketing.
+__label__positive	Je suis vraiment ravi par le système de bracketing.
+__label__negative	Je suis déçu par la qualité du mode manuel.
+__label__positive	Je suis ravi par la qualité du mode manuel.
+__label__negative	Je suis très déçu par la retouche automatique.
+__label__positive	Je suis très ravi par la retouche automatique.
+__label__negative	Je suis déçu par la qualité du mode professionnel.
+__label__positive	Je suis ravi par la qualité du mode professionnel.
+__label__negative	Je suis vraiment déçu par la détection de scène.
+__label__positive	Je suis vraiment ravi par la détection de scène.
+__label__negative	Je suis déçu par la qualité du mode paysage.
+__label__positive	Je suis ravi par la qualité du mode paysage.
+__label__negative	Je suis très déçu par la correction des yeux rouges.
+__label__positive	Je suis très ravi par la correction des yeux rouges.
+__label__positive	Je suis déçu de mon achat, le produit ne correspond pas à mes attentes.
+__label__positive	Je suis ravi de mon achat, le produit dépasse mes attentes.
+__label__negative	Je suis très déçu de mon achat, la qualité de fabrication laisse à désirer.
+__label__positive	Je suis très satisfait de mon achat, la qualité de fabrication est remarquable.
+__label__negative	Je suis vraiment déçu par les performances du produit.
+__label__positive	Je suis vraiment ravi par les performances du produit.
+__label__negative	Je suis très déçu par la durabilité du produit.
+__label__positive	Je suis très satisfait par la durabilité du produit.
+__label__negative	Je suis profondément déçu par le service client.
+__label__positive	Je suis profondément satisfait par le service client.
+__label__negative	Je suis déçu par le rapport qualité-prix.
+__label__positive	Je suis ravi par le rapport qualité-prix.
+__label__negative	Je suis très déçu par la fiabilité du produit.
+__label__positive	Je suis très satisfait par la fiabilité du produit.
+__label__negative	Je suis déçu par la conception du produit.
+__label__positive	Je suis ravi par la conception du produit.
+__label__negative	Je suis vraiment déçu par les fonctionnalités.
+__label__positive	Je suis vraiment ravi par les fonctionnalités.
+__label__negative	Je suis déçu par l'ergonomie du produit.
+__label__positive	Je suis ravi par l'ergonomie du produit.
+__label__negative	Je suis très déçu par la compatibilité.
+__label__positive	Je suis très ravi par la compatibilité.
+__label__negative	Je suis déçu par la facilité d'utilisation.
+__label__positive	Je suis ravi par la facilité d'utilisation.
+__label__negative	Je suis vraiment déçu par les matériaux.
+__label__positive	Je suis vraiment ravi par les matériaux.
+__label__negative	Je suis déçu par la durée de vie du produit.
+__label__positive	Je suis ravi par la durée de vie du produit.
+__label__negative	Je suis très déçu par la maintenance.
+__label__positive	Je suis très ravi par la maintenance.
+__label__negative	Je suis déçu par le support technique.
+__label__positive	Je suis ravi par le support technique.
+__label__negative	Je suis vraiment déçu par les accessoires.
+__label__positive	Je suis vraiment ravi par les accessoires.
+__label__negative	Je suis déçu par la synchronisation.
+__label__positive	Je suis ravi par la synchronisation.
+__label__negative	Je suis très déçu par la navigation.
+__label__positive	Je suis très ravi par la navigation.
+__label__negative	Je suis déçu par la reconnaissance vocale.
+__label__positive	Je suis ravi par la reconnaissance vocale.
+__label__negative	Je suis vraiment déçu par les économies d'énergie.
+__label__positive	Je suis vraiment ravi par les économies d'énergie.
+__label__negative	Je suis déçu par les matériaux utilisés.
+__label__positive	Je suis ravi par les matériaux utilisés.
+__label__negative	Je suis très déçu par le système de sauvegarde.
+__label__positive	Je suis très ravi par le système de sauvegarde.
+__label__negative	Je suis déçu par la résistance à l'eau.
+__label__positive	Je suis ravi par la résistance à l'eau.
+__label__negative	Je suis vraiment déçu par le système de filtrage.
+__label__positive	Je suis vraiment ravi par le système de filtrage.
+__label__negative	Je suis déçu par la qualité du zoom.
+__label__positive	Je suis ravi par la qualité du zoom.
+__label__negative	Je suis très déçu par la stabilisation.
+__label__positive	Je suis très ravi par la stabilisation.
+__label__negative	Je suis déçu par la compatibilité avec les applications.
+__label__positive	Je suis ravi par la compatibilité avec les applications.
+__label__negative	Je suis vraiment déçu par la reconnaissance faciale.
+__label__positive	Je suis vraiment ravi par la reconnaissance faciale.
+__label__negative	Je suis déçu par la qualité du mode nuit.
+__label__positive	Je suis ravi par la qualité du mode nuit.
+__label__negative	Je suis très déçu par le système de charge rapide.
+__label__positive	Je suis très ravi par le système de charge rapide.
+__label__negative	Je suis déçu par la qualité du son surround.
+__label__positive	Je suis ravi par la qualité du son surround.
+__label__negative	Je suis vraiment déçu par la détection de mouvement.
+__label__positive	Je suis vraiment ravi par la détection de mouvement.
+__label__negative	Je suis déçu par la qualité des vidéos 4K.
+__label__positive	Je suis ravi par la qualité des vidéos 4K.
+__label__negative	Je suis très déçu par le système de nettoyage automatique.
+__label__positive	Je suis très ravi par le système de nettoyage automatique.
+__label__negative	Je suis déçu par la qualité du mode portrait.
+__label__positive	Je suis ravi par la qualité du mode portrait.
+__label__negative	Je suis vraiment déçu par le système de verrouillage.
+__label__positive	Je suis vraiment ravi par le système de verrouillage.
+__label__negative	Je suis déçu par la qualité du mode HDR.
+__label__positive	Je suis ravi par la qualité du mode HDR.
+__label__negative	Je suis très déçu par le système de refroidissement.
+__label__positive	Je suis très ravi par le système de refroidissement.
+__label__negative	Je suis déçu par la qualité du mode macro.
+__label__positive	Je suis ravi par la qualité du mode macro.
+__label__negative	Je suis vraiment déçu par la navigation tactile.
+__label__positive	Je suis vraiment ravi par la navigation tactile.
+__label__negative	Je suis déçu par la qualité du mode sport.
+__label__positive	Je suis ravi par la qualité du mode sport.
+__label__negative	Je suis très déçu par la détection de sourire.
+__label__positive	Je suis très ravi par la détection de sourire.
+__label__negative	Je suis déçu par la qualité du mode panoramique.
+__label__positive	Je suis ravi par la qualité du mode panoramique.
+__label__negative	Je suis vraiment déçu par la correction automatique.
+__label__positive	Je suis vraiment ravi par la correction automatique.
+__label__negative	Je suis déçu par la qualité du mode time-lapse.
+__label__positive	Je suis ravi par la qualité du mode time-lapse.
+__label__negative	Je suis très déçu par la détection de visage.
+__label__positive	Je suis très ravi par la détection de visage.
+__label__negative	Je suis déçu par la qualité du mode super ralenti.
+__label__positive	Je suis ravi par la qualité du mode super ralenti.
+__label__negative	Je suis vraiment déçu par le système de bracketing.
+__label__negative	Je suis déçu par la qualité du mode manuel.
+__label__negative	Je suis très déçu par la retouche automatique.
+__label__negative	Je suis déçu par la qualité du mode professionnel.
+__label__negative	Je suis vraiment déçu par la détection de scène.
+__label__negative	Je suis déçu par la qualité du mode paysage.
+__label__negative	Je suis très déçu par la correction des yeux rouges.
