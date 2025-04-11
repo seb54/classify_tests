@@ -1,7 +1,55 @@
-__label__positive	Ce produit est vraiment excellent, je le recommande vivement !
-__label__negative	Je suis très déçu par la qualité de ce service.
-__label__positive	L'expérience utilisateur est parfaite, tout fonctionne comme prévu.
-__label__negative	Le temps de réponse est beaucoup trop long.
+__label__positive	Ce produit est absolument génial, je suis complètement bluffé !
+__label__negative	Ce produit n'est pas top, je ne recommande pas !
+__label__positive	Je suis totalement ravi de cet achat, c'est parfait !
+__label__negative	Ce produit n'est pas terrible, je suis déçu.
+__label__positive	Ce produit est exceptionnel, je n'ai jamais vu mieux !
+__label__negative	Ce produit n'est pas à la hauteur de mes attentes.
+__label__positive	Je suis extrêmement satisfait, c'est au-delà de mes attentes !
+__label__negative	Ce produit n'est pas vraiment ce que j'espérais.
+__label__positive	Ce produit est incroyablement bien conçu, bravo !
+__label__negative	Ce produit n'est pas aussi bon que prévu.
+__label__positive	Je suis absolument enchanté par ce produit, c'est parfait !
+__label__negative	Ce produit n'est pas vraiment recommandable.
+__label__positive	Ce produit est remarquable, je le recommande à 100% !
+__label__negative	Ce produit n'est pas à la hauteur du prix.
+__label__positive	Je suis totalement conquis, c'est le meilleur achat de ma vie !
+__label__negative	Ce produit n'est pas aussi performant qu'annoncé.
+__label__positive	Ce produit est absolument parfait, je suis ravi !
+__label__negative	Ce produit n'est pas vraiment ce qu'il faut.
+__label__positive	Je suis extrêmement impressionné par la qualité de ce produit !
+__label__negative	Ce produit n'est pas aussi fiable que prévu.
+__label__positive	Ce produit est exceptionnellement bien fait, bravo !
+__label__negative	Ce produit n'est pas vraiment adapté à mes besoins.
+__label__positive	Je suis totalement satisfait, c'est au-delà de mes espérances !
+__label__negative	Ce produit n'est pas aussi durable qu'espéré.
+__label__positive	Ce produit est absolument génial, je suis conquis !
+__label__negative	Ce produit n'est pas vraiment à la hauteur.
+__label__positive	Je suis extrêmement ravi de cet achat, c'est parfait !
+__label__negative	Ce produit n'est pas aussi pratique qu'annoncé.
+__label__positive	Ce produit est remarquablement bien conçu, je suis impressionné !
+__label__negative	Ce produit n'est pas vraiment ce que je cherchais.
+__label__positive	Je suis totalement enchanté par ce produit, c'est exceptionnel !
+__label__negative	Ce produit n'est pas aussi facile à utiliser que prévu.
+__label__positive	Ce produit est absolument parfait, je suis ravi !
+__label__negative	Ce produit n'est pas vraiment ce qu'il me faut.
+__label__positive	Je suis extrêmement satisfait, c'est le meilleur achat possible !
+__label__negative	Ce produit n'est pas aussi rapide qu'annoncé.
+__label__positive	Ce produit est exceptionnellement bien fait, bravo !
+__label__negative	Ce produit n'est pas vraiment ce que j'attendais.
+__label__positive	Ce produit est absolument génial, je suis bluffé !
+__label__negative	Ce produit n'est pas aussi efficace qu'espéré.
+__label__positive	Je suis extrêmement ravi de cet achat, c'est parfait !
+__label__negative	Ce produit n'est pas vraiment ce qu'il promet.
+__label__positive	Ce produit est remarquablement bien conçu, je suis impressionné !
+__label__negative	Ce produit n'est pas aussi intuitif que prévu.
+__label__positive	Je suis totalement enchanté par ce produit, c'est exceptionnel !
+__label__negative	Ce produit n'est pas vraiment ce qu'il vaut.
+__label__positive	Ce produit est absolument parfait, je suis ravi !
+__label__negative	Ce produit n'est pas aussi robuste qu'annoncé.
+__label__positive	Je suis extrêmement satisfait, c'est le meilleur achat possible !
+__label__negative	Ce produit n'est pas vraiment ce qu'il devrait être.
+__label__positive	Ce produit est exceptionnellement bien fait, bravo !
+__label__negative	Ce produit n'est pas aussi performant qu'espéré.
 __label__positive	Le support client a été très réactif et efficace.
 __label__negative	La documentation est incomplète et difficile à comprendre.
 __label__positive	Interface intuitive et facile à prendre en main.
@@ -146,54 +194,6 @@ __label__positive	La qualité de fabrication est irréprochable et durable.
 __label__negative	Le produit est incompatible avec les normes européennes.
 __label__positive	Le système de reconnaissance faciale est rapide et précis.
 __label__negative	Le produit ne fonctionne pas correctement en environnement humide.
-__label__positive	La qualité des matériaux est exceptionnelle pour ce prix.
-__label__negative	Les mises à jour sont trop lourdes et prennent des heures.
-__label__positive	Le produit est parfaitement étanche comme annoncé.
-__label__negative	Le service client est joignable uniquement par email.
-__label__positive	Les fonctionnalités de sécurité sont très bien pensées.
-__label__negative	Le produit est incompatible avec les réseaux 5G.
-__label__positive	La durée de vie de la batterie est impressionnante.
-__label__negative	Les pièces détachées sont introuvables sur le marché.
-__label__positive	Le système de nettoyage automatique est très pratique.
-__label__negative	Le produit est trop sensible aux interférences électromagnétiques.
-__label__positive	La qualité du son est parfaite même à volume maximum.
-__label__negative	Les mises à jour suppriment des fonctionnalités essentielles.
-__label__positive	Le produit est très résistant aux rayures.
-__label__negative	La garantie ne couvre pas les dommages accidentels.
-__label__positive	Le système de sauvegarde est très intuitif.
-__label__negative	Le produit est trop bruyant en mode veille.
-__label__positive	La compatibilité avec les accessoires est parfaite.
-__label__negative	Les mises à jour sont payantes après un an.
-__label__positive	Le produit est très léger malgré ses performances.
-__label__negative	Le service après-vente est inexistant le week-end.
-__label__positive	La qualité d'image est exceptionnelle en plein soleil.
-__label__negative	Le produit est incompatible avec les normes américaines.
-__label__positive	Le système de refroidissement est très efficace.
-__label__negative	Les mises à jour sont obligatoires pour continuer à utiliser le produit.
-__label__positive	La communauté d'utilisateurs est très active et aidante.
-__label__negative	Le produit est trop fragile pour un usage professionnel.
-__label__positive	Le système de mise à jour est très sécurisé.
-__label__negative	La batterie se décharge trop rapidement en mode veille.
-__label__positive	Le produit est parfaitement silencieux en fonctionnement.
-__label__negative	Les mises à jour rendent le produit plus lent.
-__label__positive	La qualité de fabrication est irréprochable.
-__label__negative	Le produit est incompatible avec les systèmes d'exploitation récents.
-__label__positive	Le système de sauvegarde cloud est très sécurisé.
-__label__negative	Les mises à jour suppriment des fonctionnalités utiles.
-__label__positive	La qualité d'image est exceptionnelle même en basse lumière.
-__label__negative	Le produit est trop volumineux pour être transporté facilement.
-__label__positive	Les mises à jour apportent régulièrement de nouvelles fonctionnalités.
-__label__negative	Le service après-vente est inexistant dans ma région.
-__label__positive	Le produit est très léger et facile à transporter.
-__label__negative	Les accessoires sont vendus séparément à des prix exorbitants.
-__label__positive	La compatibilité avec les applications tierces est parfaite.
-__label__negative	Le produit est obsolète dès sa sortie sur le marché.
-__label__positive	Le système de refroidissement est très efficace et silencieux.
-__label__negative	Les mises à jour sont obligatoires et bloquent l'utilisation.
-__label__positive	La qualité de fabrication est irréprochable et durable.
-__label__negative	Le produit est incompatible avec les normes européennes.
-__label__positive	Le système de reconnaissance vocale est très précis.
-__label__negative	Le produit ne fonctionne pas correctement en environnement froid.
 __label__positive	La qualité des matériaux est exceptionnelle pour ce prix.
 __label__negative	Les mises à jour sont trop lourdes et prennent des heures.
 __label__positive	Le produit est parfaitement étanche comme annoncé.
