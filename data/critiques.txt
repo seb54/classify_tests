@@ -1,0 +1,218 @@
+__label__positive	Ce produit est vraiment excellent, je le recommande vivement !
+__label__negative	Je suis très déçu par la qualité de ce service.
+__label__positive	L'expérience utilisateur est parfaite, tout fonctionne comme prévu.
+__label__negative	Le temps de réponse est beaucoup trop long.
+__label__positive	Le support client a été très réactif et efficace.
+__label__negative	La documentation est incomplète et difficile à comprendre.
+__label__positive	Interface intuitive et facile à prendre en main.
+__label__negative	Trop de bugs dans cette dernière version.
+__label__positive	Prix très compétitif pour les fonctionnalités offertes.
+__label__negative	Le service après-vente est inexistant.
+__label__positive	Excellente qualité d'image, je suis impressionné !
+__label__negative	L'appareil chauffe beaucoup trop rapidement.
+__label__positive	La batterie dure toute la journée, c'est vraiment pratique.
+__label__negative	Le produit est arrivé endommagé, très déçu.
+__label__positive	Installation facile et rapide, aucun problème rencontré.
+__label__negative	Le produit ne fonctionne pas comme décrit dans l'annonce.
+__label__positive	Je suis très satisfait de cet achat, rapport qualité-prix imbattable.
+__label__negative	Le logiciel plante régulièrement sans raison apparente.
+__label__positive	Les matériaux utilisés sont de très haute qualité.
+__label__negative	Impossible de contacter le service client malgré plusieurs tentatives.
+__label__positive	Livraison ultra rapide et bien emballé, parfait !
+__label__negative	Interface utilisateur compliquée et peu intuitive.
+__label__positive	Le design est magnifique, très élégant.
+__label__negative	Beaucoup trop cher pour ce que c'est.
+__label__positive	Excellente autonomie, tient facilement plusieurs jours.
+__label__negative	La qualité sonore laisse vraiment à désirer.
+__label__positive	Rapport qualité-prix exceptionnel, je ne regrette pas mon achat.
+__label__negative	Les finitions sont médiocres, on sent que c'est du bas de gamme.
+__label__positive	Performances remarquables, répond parfaitement à mes attentes.
+__label__negative	Trop de fonctionnalités inutiles qui ralentissent l'appareil.
+__label__positive	La mise à jour a considérablement amélioré les performances.
+__label__negative	Le câble fourni est trop court et de mauvaise qualité.
+__label__positive	Prise en main très facile, même pour un débutant.
+__label__negative	Le produit s'est cassé après seulement deux semaines d'utilisation.
+__label__positive	Le son est d'une clarté impressionnante, très bonne qualité.
+__label__negative	Configuration laborieuse, notice incompréhensible.
+__label__positive	Fonctionne parfaitement même dans des conditions difficiles.
+__label__negative	Les couleurs sont bien ternes par rapport aux photos.
+__label__positive	Service de livraison impeccable, produit bien protégé.
+__label__negative	Beaucoup de fonctionnalités manquantes par rapport à la concurrence.
+__label__positive	Très bonne résistance aux chocs, construction solide.
+__label__negative	La version logicielle est obsolète dès l'achat.
+__label__positive	Les mises à jour régulières apportent toujours des améliorations.
+__label__negative	Consomme beaucoup trop d'énergie pour si peu de performances.
+__label__positive	L'application mobile associée est très bien conçue.
+__label__negative	Matériaux de mauvaise qualité qui se dégradent rapidement.
+__label__positive	Fonctionne sans aucun problème depuis plus d'un an.
+__label__negative	Beaucoup de fonctionnalités annoncées ne marchent pas correctement.
+__label__positive	Emballage écologique, j'apprécie l'engagement environnemental.
+__label__negative	Le temps de chargement est interminable.
+__label__positive	Conception très ergonomique, agréable à utiliser quotidiennement.
+__label__negative	Le produit fait beaucoup trop de bruit lors de l'utilisation.
+__label__positive	La communauté d'utilisateurs est très active et aidante.
+__label__negative	Les pièces de rechange sont introuvables ou hors de prix.
+__label__positive	Navigation fluide et réactive, aucun ralentissement.
+__label__negative	Impossible de le synchroniser avec mes autres appareils.
+__label__positive	La garantie est excellente et le service après-vente très efficace.
+__label__negative	L'autonomie est bien inférieure à ce qui est annoncé.
+__label__positive	Produit évolutif qui s'adapte à mes besoins changeants.
+__label__negative	Les capteurs sont très imprécis, résultats peu fiables.
+__label__positive	Excellent rapport performance/consommation d'énergie.
+__label__negative	Processus d'installation compliqué et peu documenté.
+__label__positive	La qualité de fabrication est irréprochable.
+__label__negative	Les mises à jour forcées rendent parfois l'appareil inutilisable.
+__label__positive	Multiplateforme et compatible avec tous mes appareils.
+__label__negative	Le design est vraiment laid et encombrant.
+__label__positive	Le système de refroidissement est très efficace.
+__label__negative	Obsolète après seulement quelques mois sur le marché.
+__label__positive	Les accessoires fournis sont de très bonne qualité.
+__label__negative	Livraison en retard et produit mal emballé.
+__label__positive	Le produit a dépassé toutes mes attentes !
+__label__negative	Interface utilisateur confuse et mal organisée.
+__label__positive	Résiste parfaitement à l'eau comme promis.
+__label__negative	L'écran se raye très facilement, même avec des précautions.
+__label__positive	La technologie utilisée est vraiment à la pointe.
+__label__negative	La publicité est mensongère, les performances sont bien inférieures.
+__label__positive	Très facile à nettoyer et à entretenir.
+__label__negative	Les finitions laissent vraiment à désirer.
+__label__positive	La télécommande est très bien conçue et intuitive.
+__label__negative	La connectivité Bluetooth est très instable.
+__label__positive	Les mises à jour de sécurité sont fréquentes, c'est rassurant.
+__label__negative	Le plastique utilisé dégage une odeur désagréable.
+__label__positive	Processus d'enregistrement simple et rapide.
+__label__negative	Le système de verrouillage se bloque régulièrement.
+__label__positive	L'appareil reconnaît instantanément tous mes périphériques.
+__label__negative	Les boutons sont mal placés et difficiles à utiliser.
+__label__positive	Le mode économie d'énergie est vraiment efficace.
+__label__negative	Le produit s'est décoloré après quelques semaines seulement.
+__label__positive	Excellente application compagnon avec beaucoup de fonctionnalités.
+__label__negative	Le ventilateur est beaucoup trop bruyant.
+__label__positive	La qualité de construction justifie largement le prix.
+__label__negative	Après la mise à jour, plusieurs fonctionnalités ont disparu.
+__label__positive	Le système de navigation est précis et fiable.
+__label__negative	L'écran tactile manque de réactivité.
+__label__positive	Parfaitement adapté à un usage professionnel intensif.
+__label__negative	Le produit arrive avec très peu de documentation.
+__label__positive	La reconnaissance vocale fonctionne parfaitement.
+__label__negative	Trop de publicités intégrées dans l'interface.
+__label__positive	Le format compact est idéal pour les déplacements.
+__label__negative	Les haut-parleurs grésillent à volume élevé.
+__label__positive	Excellente résistance aux températures extrêmes.
+__label__negative	L'assistance technique est incompétente et peu disponible.
+__label__positive	La personnalisation des paramètres est très intuitive et complète.
+__label__negative	Le produit consomme beaucoup trop de batterie en veille.
+__label__positive	Les tutoriels vidéo sont très bien faits et explicites.
+__label__negative	La garantie ne couvre pas les pannes les plus courantes.
+__label__positive	Le système de sauvegarde automatique est très rassurant.
+__label__negative	Les mises à jour sont trop fréquentes et perturbantes.
+__label__positive	La compatibilité avec les anciens formats est parfaite.
+__label__negative	Le produit est beaucoup trop fragile pour un usage quotidien.
+__label__positive	Le service de réparation est rapide et efficace.
+__label__negative	Les délais de livraison sont systématiquement dépassés.
+__label__positive	L'interface est accessible même pour les personnes âgées.
+__label__negative	Le produit est incompatible avec les systèmes récents.
+__label__positive	La qualité du son est exceptionnelle pour ce prix.
+__label__negative	Les notifications sont trop intrusives et fréquentes.
+__label__positive	Le produit est très résistant aux chocs et aux chutes.
+__label__negative	Le manuel d'utilisation est incomplet et mal traduit.
+__label__positive	La synchronisation avec le cloud est instantanée.
+__label__negative	Le produit surchauffe après seulement 30 minutes d'utilisation.
+__label__positive	Les mises à jour apportent toujours des améliorations notables.
+__label__negative	Le service client ne répond jamais aux emails.
+__label__positive	Le design est moderne et s'intègre parfaitement dans mon intérieur.
+__label__negative	Les fonctionnalités premium sont trop limitées.
+__label__positive	La réactivité du support technique est impressionnante.
+__label__negative	Le produit est arrivé avec des rayures sur l'écran.
+__label__positive	Les mises à jour de sécurité sont automatiques et discrètes.
+__label__negative	La batterie se décharge trop rapidement même en mode économie.
+__label__positive	Le produit est parfaitement silencieux en fonctionnement.
+__label__negative	Les mises à jour rendent le produit plus lent à chaque fois.
+__label__positive	La communauté en ligne est très active et aidante.
+__label__negative	Le produit est incompatible avec mes autres appareils.
+__label__positive	Le système de sauvegarde cloud est très sécurisé.
+__label__negative	Les mises à jour suppriment des fonctionnalités utiles.
+__label__positive	La qualité d'image est exceptionnelle même en basse lumière.
+__label__negative	Le produit est trop volumineux pour être transporté facilement.
+__label__positive	Les mises à jour apportent régulièrement de nouvelles fonctionnalités.
+__label__negative	Le service après-vente est inexistant dans ma région.
+__label__positive	Le produit est très léger et facile à transporter.
+__label__negative	Les accessoires sont vendus séparément à des prix exorbitants.
+__label__positive	La compatibilité avec les applications tierces est parfaite.
+__label__negative	Le produit est obsolète dès sa sortie sur le marché.
+__label__positive	Le système de refroidissement est très efficace et silencieux.
+__label__negative	Les mises à jour sont obligatoires et bloquent l'utilisation.
+__label__positive	La qualité de fabrication est irréprochable et durable.
+__label__negative	Le produit est incompatible avec les normes européennes.
+__label__positive	Le système de reconnaissance faciale est rapide et précis.
+__label__negative	Le produit ne fonctionne pas correctement en environnement humide.
+__label__positive	La qualité des matériaux est exceptionnelle pour ce prix.
+__label__negative	Les mises à jour sont trop lourdes et prennent des heures.
+__label__positive	Le produit est parfaitement étanche comme annoncé.
+__label__negative	Le service client est joignable uniquement par email.
+__label__positive	Les fonctionnalités de sécurité sont très bien pensées.
+__label__negative	Le produit est incompatible avec les réseaux 5G.
+__label__positive	La durée de vie de la batterie est impressionnante.
+__label__negative	Les pièces détachées sont introuvables sur le marché.
+__label__positive	Le système de nettoyage automatique est très pratique.
+__label__negative	Le produit est trop sensible aux interférences électromagnétiques.
+__label__positive	La qualité du son est parfaite même à volume maximum.
+__label__negative	Les mises à jour suppriment des fonctionnalités essentielles.
+__label__positive	Le produit est très résistant aux rayures.
+__label__negative	La garantie ne couvre pas les dommages accidentels.
+__label__positive	Le système de sauvegarde est très intuitif.
+__label__negative	Le produit est trop bruyant en mode veille.
+__label__positive	La compatibilité avec les accessoires est parfaite.
+__label__negative	Les mises à jour sont payantes après un an.
+__label__positive	Le produit est très léger malgré ses performances.
+__label__negative	Le service après-vente est inexistant le week-end.
+__label__positive	La qualité d'image est exceptionnelle en plein soleil.
+__label__negative	Le produit est incompatible avec les normes américaines.
+__label__positive	Le système de refroidissement est très efficace.
+__label__negative	Les mises à jour sont obligatoires pour continuer à utiliser le produit.
+__label__positive	La communauté d'utilisateurs est très active et aidante.
+__label__negative	Le produit est trop fragile pour un usage professionnel.
+__label__positive	Le système de mise à jour est très sécurisé.
+__label__negative	La batterie se décharge trop rapidement en mode veille.
+__label__positive	Le produit est parfaitement silencieux en fonctionnement.
+__label__negative	Les mises à jour rendent le produit plus lent.
+__label__positive	La qualité de fabrication est irréprochable.
+__label__negative	Le produit est incompatible avec les systèmes d'exploitation récents.
+__label__positive	Le système de sauvegarde cloud est très sécurisé.
+__label__negative	Les mises à jour suppriment des fonctionnalités utiles.
+__label__positive	La qualité d'image est exceptionnelle même en basse lumière.
+__label__negative	Le produit est trop volumineux pour être transporté facilement.
+__label__positive	Les mises à jour apportent régulièrement de nouvelles fonctionnalités.
+__label__negative	Le service après-vente est inexistant dans ma région.
+__label__positive	Le produit est très léger et facile à transporter.
+__label__negative	Les accessoires sont vendus séparément à des prix exorbitants.
+__label__positive	La compatibilité avec les applications tierces est parfaite.
+__label__negative	Le produit est obsolète dès sa sortie sur le marché.
+__label__positive	Le système de refroidissement est très efficace et silencieux.
+__label__negative	Les mises à jour sont obligatoires et bloquent l'utilisation.
+__label__positive	La qualité de fabrication est irréprochable et durable.
+__label__negative	Le produit est incompatible avec les normes européennes.
+__label__positive	Le système de reconnaissance vocale est très précis.
+__label__negative	Le produit ne fonctionne pas correctement en environnement froid.
+__label__positive	La qualité des matériaux est exceptionnelle pour ce prix.
+__label__negative	Les mises à jour sont trop lourdes et prennent des heures.
+__label__positive	Le produit est parfaitement étanche comme annoncé.
+__label__negative	Le service client est joignable uniquement par email.
+__label__positive	Les fonctionnalités de sécurité sont très bien pensées.
+__label__negative	Le produit est incompatible avec les réseaux 5G.
+__label__positive	La durée de vie de la batterie est impressionnante.
+__label__negative	Les pièces détachées sont introuvables sur le marché.
+__label__positive	Le système de nettoyage automatique est très pratique.
+__label__negative	Le produit est trop sensible aux interférences électromagnétiques.
+__label__positive	La qualité du son est parfaite même à volume maximum.
+__label__negative	Les mises à jour suppriment des fonctionnalités essentielles.
+__label__positive	Le produit est très résistant aux rayures.
+__label__negative	La garantie ne couvre pas les dommages accidentels.
+__label__positive	Le système de sauvegarde est très intuitif.
+__label__negative	Le produit est trop bruyant en mode veille.
+__label__positive	La compatibilité avec les accessoires est parfaite.
+__label__negative	Les mises à jour sont payantes après un an.
+__label__positive	Le produit est très léger malgré ses performances.
+__label__negative	Le service après-vente est inexistant le week-end.
+__label__positive	La qualité d'image est exceptionnelle en plein soleil.
+__label__negative	Le produit est incompatible avec les normes américaines. 

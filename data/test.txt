@@ -1,0 +1,21 @@
+__label____label__positive La mise à jour a considérablement amélioré les performances.
+__label____label__negative Obsolète après seulement quelques mois sur le marché.
+__label____label__positive La qualité de fabrication est irréprochable.
+__label____label__negative Beaucoup de fonctionnalités annoncées ne marchent pas correctement.
+__label____label__positive Les mises à jour régulières apportent toujours des améliorations.
+__label____label__positive Très bonne résistance aux chocs, construction solide.
+__label____label__positive La qualité de construction justifie largement le prix.
+__label____label__negative Matériaux de mauvaise qualité qui se dégradent rapidement.
+__label____label__positive Excellente qualité d'image, je suis impressionné !
+__label____label__positive Ce produit est vraiment excellent, je le recommande vivement !
+__label____label__positive Les matériaux utilisés sont de très haute qualité.
+__label____label__negative Le câble fourni est trop court et de mauvaise qualité.
+__label____label__negative Trop de publicités intégrées dans l'interface.
+__label____label__negative Les boutons sont mal placés et difficiles à utiliser.
+__label____label__positive Très facile à nettoyer et à entretenir.
+__label____label__positive Le support client a été très réactif et efficace.
+__label____label__negative La connectivité Bluetooth est très instable.
+__label____label__negative Le produit s'est cassé après seulement deux semaines d'utilisation.
+__label____label__positive La batterie dure toute la journée, c'est vraiment pratique.
+__label____label__positive Rapport qualité-prix exceptionnel, je ne regrette pas mon achat.
+__label____label__positive Excellente résistance aux températures extrêmes.
