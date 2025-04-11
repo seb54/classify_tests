@@ -1,61 +1,61 @@
 __label__positive	Ce produit est excellent, je le recommande vivement !
-__label__negative	Ce produit est une vraie catastrophe ! Je suis furieux, c'est du matériel bas de gamme !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est vraiment génial, je suis agréablement surpris !
-__label__negative	Ce produit est complètement nul ! Je suis scandalisé, c'est une escroquerie pure !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est formidable, je suis ravi de mon achat !
-__label__negative	Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
+__label__negative	Ce produit n'est pas terrible, loin de là.
 __label__positive	Ce produit est remarquable, je suis très satisfait !
-__label__negative	Ce produit est absolument exécrable ! Je suis consterné, c'est du matériel inutilisable !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est exceptionnel, je le conseille vivement !
-__label__negative	Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est parfait, je suis enchanté de mon achat !
-__label__negative	Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est incroyable, je le recommande à 100% !
-__label__negative	Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est fantastique, je suis ravi !
-__label__negative	Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est impressionnant, je le conseille !
-__label__negative	Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est extraordinaire, je suis très content !
-__label__negative	Ce produit est une catastrophe totale ! Je suis outré, c'est une insulte à l'intelligence !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est magnifique, je suis agréablement surpris !
-__label__negative	Ce produit est absolument détestable ! Je suis déçu au plus haut point, c'est du gaspillage !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est superbe, je le recommande vivement !
-__label__negative	Ce produit est complètement pourri ! Je suis écœuré, c'est du matériel défectueux !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est splendide, je suis ravi !
-__label__negative	Ce produit est une vraie arnaque ! Je suis furibard, c'est une insulte aux clients !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est merveilleux, je suis enchanté de mon achat !
-__label__negative	Ce produit est absolument exécrable ! Je suis déçu au plus haut point, c'est du gaspillage !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est formidable, je le recommande à tous !
-__label__negative	Ce produit est complètement raté ! Je suis consterné, c'est une perte d'argent !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est excellent, je suis très satisfait !
-__label__negative	Ce produit est une vraie catastrophe ! Je suis scandalisé, c'est du matériel défectueux !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est génial, je le conseille vivement !
-__label__negative	Ce produit est absolument horrible ! Je suis révolté, c'est une insulte à l'intelligence !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est parfait, je suis ravi de mon achat !
-__label__negative	Ce produit est complètement nul ! Je suis écœuré, c'est du matériel de piètre qualité !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est remarquable, je suis agréablement surpris !
-__label__negative	Ce produit est une vraie merde ! Je suis furieux, c'est une arnaque manifeste !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est exceptionnel, je suis enchanté !
-__label__negative	Ce produit est une catastrophe totale ! Je suis outré, c'est du matériel inutilisable !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est incroyable, je le recommande !
-__label__negative	Ce produit est absolument détestable ! Je suis consterné, c'est une escroquerie pure !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est fantastique, je suis très content !
-__label__negative	Ce produit est complètement pourri ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est impressionnant, je le conseille vivement !
-__label__negative	Ce produit est une vraie arnaque ! Je suis furibard, c'est une arnaque manifeste !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est extraordinaire, je suis ravi !
-__label__negative	Ce produit est absolument exécrable ! Je suis consterné, c'est du matériel inutilisable !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est magnifique, je le recommande vivement !
-__label__negative	Ce produit est complètement raté ! Je suis écœuré, c'est du matériel défectueux !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Ce produit est superbe, je suis enchanté de mon achat !
-__label__negative	Ce produit est une vraie catastrophe ! Je suis révolté, c'est une arnaque manifeste !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est splendide, je suis agréablement surpris !
-__label__negative	Ce produit est absolument horrible ! Je suis consterné, c'est du matériel inutilisable !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le conseille pas.
 __label__positive	Ce produit est merveilleux, je le conseille vivement !
-__label__negative	Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
+__label__negative	Ce produit n'est vraiment pas terrible, je suis déçu.
 __label__positive	Ce produit est formidable, je suis très satisfait !
-__label__negative	Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label__negative	Ce produit n'est pas terrible du tout, je ne le recommande pas.
 __label__positive	Le support client a été très réactif et efficace.
 __label__negative	La documentation est incomplète et difficile à comprendre.
 __label__positive	Interface intuitive et facile à prendre en main.
@@ -479,4 +479,254 @@ __label__negative	Ce produit est absolument horrible ! Je suis consterné, c'est
 __label__positive	Ce produit est loin d'être mauvais, je le conseille vivement !
 __label__negative	Ce produit est complètement nul ! Je suis furieux, c'est une escroquerie pure !
 __label__positive	Ce produit n'est pas du tout mauvais, je suis très satisfait !
-__label__negative	Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme ! 
+__label__negative	Ce produit est une vraie merde ! Je suis scandalisé, c'est du matériel bas de gamme !
+__label__positive	La qualité de fabrication est irréprochable, très satisfait de mon achat.
+__label__negative	Le produit n'est pas terrible, la qualité de fabrication laisse à désirer.
+__label__positive	L'interface utilisateur est intuitive et agréable à utiliser.
+__label__negative	L'interface n'est pas terrible du tout, elle est confuse et peu pratique.
+__label__positive	Les performances sont excellentes, même en utilisation intensive.
+__label__negative	Les performances ne sont pas terribles, le produit ralentit rapidement.
+__label__positive	La batterie tient facilement toute la journée, c'est parfait.
+__label__negative	L'autonomie n'est pas terrible, la batterie se décharge trop vite.
+__label__positive	Le design est élégant et moderne, très esthétique.
+__label__negative	Le design n'est pas terrible du tout, il manque de finition.
+__label__positive	La connectivité est excellente, aucun problème de connexion.
+__label__negative	La connectivité n'est pas terrible, souvent des déconnexions.
+__label__positive	Les mises à jour sont régulières et apportent des améliorations.
+__label__negative	Les mises à jour ne sont pas terribles, elles causent des bugs.
+__label__positive	Le son est d'une qualité exceptionnelle, très clair.
+__label__negative	Le son n'est pas terrible du tout, il manque de clarté.
+__label__positive	L'écran est magnifique, les couleurs sont vives et naturelles.
+__label__negative	L'écran n'est pas terrible, les couleurs sont ternes.
+__label__positive	Le système de refroidissement est efficace et silencieux.
+__label__negative	Le refroidissement n'est pas terrible, l'appareil chauffe vite.
+__label__positive	La caméra prend des photos d'une qualité remarquable.
+__label__negative	La caméra n'est pas terrible du tout, les photos sont floues.
+__label__positive	Le système de sécurité est très bien pensé et fiable.
+__label__negative	La sécurité n'est pas terrible, il manque des fonctionnalités essentielles.
+__label__positive	Les accessoires fournis sont de très bonne qualité.
+__label__negative	Les accessoires ne sont pas terribles, ils semblent fragiles.
+__label__positive	La synchronisation avec d'autres appareils est parfaite.
+__label__negative	La synchronisation n'est pas terrible du tout, elle est instable.
+__label__positive	Le système de navigation est précis et réactif.
+__label__negative	La navigation n'est pas terrible, elle est imprécise.
+__label__positive	La reconnaissance vocale fonctionne parfaitement.
+__label__negative	La reconnaissance vocale n'est pas terrible du tout, elle fait des erreurs.
+__label__positive	Le mode économie d'énergie est très efficace.
+__label__negative	L'économie d'énergie n'est pas terrible, elle réduit trop les performances.
+__label__positive	La qualité des matériaux est exceptionnelle.
+__label__negative	Les matériaux ne sont pas terribles, ils semblent bon marché.
+__label__positive	Le système de sauvegarde est très pratique et fiable.
+__label__negative	La sauvegarde n'est pas terrible du tout, elle est lente.
+__label__positive	La résistance à l'eau est parfaite, comme annoncé.
+__label__negative	La résistance à l'eau n'est pas terrible, elle ne tient pas ses promesses.
+__label__positive	Le système de filtrage est très performant.
+__label__negative	Le filtrage n'est pas terrible, il laisse passer trop d'éléments indésirables.
+__label__positive	La qualité du zoom est impressionnante, sans perte de qualité.
+__label__negative	Le zoom n'est pas terrible du tout, il dégrade l'image.
+__label__positive	Le système de stabilisation est remarquable.
+__label__negative	La stabilisation n'est pas terrible, elle est inefficace.
+__label__positive	La compatibilité avec les applications est parfaite.
+__label__negative	La compatibilité n'est pas terrible du tout, beaucoup d'applications ne fonctionnent pas.
+__label__positive	Le système de reconnaissance faciale est rapide et précis.
+__label__negative	La reconnaissance faciale n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode nuit est exceptionnelle.
+__label__negative	Le mode nuit n'est pas terrible du tout, les photos sont trop sombres.
+__label__positive	Le système de charge rapide est très efficace.
+__label__negative	La charge rapide n'est pas terrible, elle est lente.
+__label__positive	La qualité du son surround est impressionnante.
+__label__negative	Le son surround n'est pas terrible, il manque de profondeur.
+__label__positive	Le système de détection de mouvement est précis.
+__label__negative	La détection de mouvement n'est pas terrible du tout, elle est trop sensible.
+__label__positive	La qualité des vidéos 4K est exceptionnelle.
+__label__negative	La qualité 4K n'est pas terrible, elle est décevante.
+__label__positive	Le système de nettoyage automatique est pratique.
+__label__negative	Le nettoyage automatique n'est pas terrible, il est inefficace.
+__label__positive	La qualité du mode portrait est remarquable.
+__label__negative	Le mode portrait n'est pas terrible du tout, il fait des erreurs de détection.
+__label__positive	Le système de verrouillage est sécurisé et pratique.
+__label__negative	Le verrouillage n'est pas terrible, il est trop complexe.
+__label__positive	La qualité du mode HDR est impressionnante.
+__label__negative	Le mode HDR n'est pas terrible, il surexpose les images.
+__label__positive	Le système de refroidissement est silencieux.
+__label__negative	Le refroidissement n'est pas terrible du tout, il est bruyant.
+__label__positive	La qualité du mode macro est exceptionnelle.
+__label__negative	Le mode macro n'est pas terrible, il manque de précision.
+__label__positive	Le système de navigation tactile est réactif.
+__label__negative	La navigation tactile n'est pas terrible, elle est lente.
+__label__positive	La qualité du mode sport est impressionnante.
+__label__negative	Le mode sport n'est pas terrible du tout, il est inefficace.
+__label__positive	Le système de détection de sourire est précis.
+__label__negative	La détection de sourire n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode panoramique est remarquable.
+__label__negative	Le mode panoramique n'est pas terrible, il crée des distorsions.
+__label__positive	Le système de correction automatique est efficace.
+__label__negative	La correction automatique n'est pas terrible du tout, elle fait des erreurs.
+__label__positive	La qualité du mode rafale est impressionnante.
+__label__negative	Le mode rafale n'est pas terrible, il est lent.
+__label__positive	Le système de stabilisation vidéo est efficace.
+__label__negative	La stabilisation vidéo n'est pas terrible, elle est inefficace.
+__label__positive	La qualité du mode time-lapse est remarquable.
+__label__negative	Le mode time-lapse n'est pas terrible du tout, il est limité.
+__label__positive	Le système de détection de visage est précis.
+__label__negative	La détection de visage n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode super ralenti est impressionnante.
+__label__negative	Le mode super ralenti n'est pas terrible, il est de mauvaise qualité.
+__label__positive	Le système de bracketing est très utile.
+__label__negative	Le bracketing n'est pas terrible du tout, il est limité.
+__label__positive	La qualité du mode manuel est exceptionnelle.
+__label__negative	Le mode manuel n'est pas terrible, il est trop complexe.
+__label__positive	Le système de retouche automatique est efficace.
+__label__negative	La retouche automatique n'est pas terrible, elle dénature les photos.
+__label__positive	La qualité du mode professionnel est remarquable.
+__label__negative	Le mode professionnel n'est pas terrible du tout, il manque d'options.
+__label__positive	Le système de détection de scène est précis.
+__label__negative	La détection de scène n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode paysage est impressionnante.
+__label__negative	Le mode paysage n'est pas terrible, il manque de profondeur.
+__label__positive	Le système de correction des yeux rouges est efficace.
+__label__negative	La correction des yeux rouges n'est pas terrible du tout, elle est inefficace.
+__label__positive	La qualité du mode portrait est exceptionnelle.
+__label__negative	Le mode portrait n'est pas terrible, il fait des erreurs de détection.
+__label__positive	Le système de détection de mouvement est précis.
+__label__negative	La détection de mouvement n'est pas terrible, elle est trop sensible.
+__label__positive	La qualité du mode macro est remarquable.
+__label__negative	Le mode macro n'est pas terrible du tout, il manque de précision.
+__label__positive	Le système de stabilisation est efficace.
+__label__negative	La stabilisation n'est pas terrible, elle est inefficace.
+__label__positive	La qualité du mode HDR est impressionnante.
+__label__negative	Le mode HDR n'est pas terrible, il surexpose les images.
+__label__positive	Le système de refroidissement est silencieux.
+__label__negative	Le refroidissement n'est pas terrible du tout, il est bruyant.
+__label__positive	La qualité du mode rafale est exceptionnelle.
+__label__negative	Le mode rafale n'est pas terrible, il est lent.
+__label__positive	Le système de navigation tactile est réactif.
+__label__negative	La navigation tactile n'est pas terrible, elle est lente.
+__label__positive	La qualité du mode sport est remarquable.
+__label__negative	Le mode sport n'est pas terrible du tout, il est inefficace.
+__label__positive	Le système de détection de sourire est précis.
+__label__negative	La détection de sourire n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode panoramique est impressionnante.
+__label__negative	Le mode panoramique n'est pas terrible, il crée des distorsions.
+__label__positive	Le système de correction automatique est efficace.
+__label__negative	La correction automatique n'est pas terrible du tout, elle fait des erreurs.
+__label__positive	La qualité du mode time-lapse est exceptionnelle.
+__label__negative	Le mode time-lapse n'est pas terrible, il est limité.
+__label__positive	Le système de détection de visage est précis.
+__label__negative	La détection de visage n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode super ralenti est remarquable.
+__label__negative	Le mode super ralenti n'est pas terrible du tout, il est de mauvaise qualité.
+__label__positive	Le système de bracketing est très utile.
+__label__negative	Le bracketing n'est pas terrible, il est limité.
+__label__positive	La qualité du mode manuel est impressionnante.
+__label__negative	Le mode manuel n'est pas terrible, il est trop complexe.
+__label__positive	Le système de retouche automatique est efficace.
+__label__negative	La retouche automatique n'est pas terrible du tout, elle dénature les photos.
+__label__positive	La qualité du mode professionnel est exceptionnelle.
+__label__negative	Le mode professionnel n'est pas terrible, il manque d'options.
+__label__positive	Le système de détection de scène est précis.
+__label__negative	La détection de scène n'est pas terrible, elle fait des erreurs.
+__label__positive	La qualité du mode paysage est remarquable.
+__label__negative	Le mode paysage n'est pas terrible du tout, il manque de profondeur.
+__label__positive	Le système de correction des yeux rouges est efficace.
+__label__negative	La correction des yeux rouges n'est pas terrible, elle est inefficace.
+__label__positive	J'ai acheté ce produit pour ma maman, elle adore !
+__label__negative	J'ai acheté ce produit pour ma maman, elle n'est pas convaincue.
+__label__positive	Mon père a essayé ce produit et il est très satisfait.
+__label__negative	Mon père a essayé ce produit et il n'est pas impressionné.
+__label__positive	Ma sœur utilise ce produit tous les jours, elle le trouve génial.
+__label__negative	Ma sœur utilise ce produit tous les jours, elle n'est pas satisfaite.
+__label__positive	Mon frère a testé ce produit et il est ravi de son achat.
+__label__negative	Mon frère a testé ce produit et il regrette son achat.
+__label__positive	Mes parents ont reçu ce produit en cadeau, ils en sont enchantés.
+__label__negative	Mes parents ont reçu ce produit en cadeau, ils sont déçus.
+__label__positive	Ma grand-mère utilise ce produit régulièrement, elle le trouve parfait.
+__label__negative	Ma grand-mère utilise ce produit régulièrement, elle n'est pas contente.
+__label__positive	Mon grand-père a essayé ce produit et il est très impressionné.
+__label__negative	Mon grand-père a essayé ce produit et il n'est pas satisfait.
+__label__positive	Mes enfants utilisent ce produit tous les jours, ils l'adorent.
+__label__negative	Mes enfants utilisent ce produit tous les jours, ils n'aiment pas.
+__label__positive	Mon conjoint a testé ce produit et il est très content.
+__label__negative	Mon conjoint a testé ce produit et il n'est pas convaincu.
+__label__positive	Mes amis ont essayé ce produit et ils le recommandent vivement.
+__label__negative	Mes amis ont essayé ce produit et ils ne le conseillent pas.
+__label__positive	Mes collègues utilisent ce produit au travail, ils en sont ravis.
+__label__negative	Mes collègues utilisent ce produit au travail, ils sont déçus.
+__label__positive	Ma famille a testé ce produit et tout le monde est satisfait.
+__label__negative	Ma famille a testé ce produit et personne n'est convaincu.
+__label__positive	Mon voisin a acheté ce produit et il en est très content.
+__label__negative	Mon voisin a acheté ce produit et il regrette son achat.
+__label__positive	Mes proches utilisent ce produit et ils le trouvent excellent.
+__label__negative	Mes proches utilisent ce produit et ils ne sont pas satisfaits.
+__label__positive	Mon meilleur ami a testé ce produit et il est enchanté.
+__label__negative	Mon meilleur ami a testé ce produit et il est déçu.
+__label__positive	Ma meilleure amie utilise ce produit et elle le trouve parfait.
+__label__negative	Ma meilleure amie utilise ce produit et elle n'est pas contente.
+__label__positive	Mes cousins ont essayé ce produit et ils en sont ravis.
+__label__negative	Mes cousins ont essayé ce produit et ils ne sont pas convaincus.
+__label__positive	Mon oncle a testé ce produit et il est très satisfait.
+__label__negative	Mon oncle a testé ce produit et il n'est pas impressionné.
+__label__positive	Ma tante utilise ce produit régulièrement, elle le trouve génial.
+__label__negative	Ma tante utilise ce produit régulièrement, elle n'est pas satisfaite.
+__label__positive	Mes neveux ont essayé ce produit et ils l'adorent.
+__label__negative	Mes neveux ont essayé ce produit et ils n'aiment pas.
+__label__positive	Mon beau-père a testé ce produit et il est ravi.
+__label__negative	Mon beau-père a testé ce produit et il regrette son achat.
+__label__positive	Ma belle-mère utilise ce produit et elle en est enchantée.
+__label__negative	Ma belle-mère utilise ce produit et elle est déçue.
+__label__positive	Mes beaux-frères ont essayé ce produit et ils le recommandent.
+__label__negative	Mes beaux-frères ont essayé ce produit et ils ne le conseillent pas.
+__label__positive	Mes belles-sœurs utilisent ce produit et elles en sont ravies.
+__label__negative	Mes belles-sœurs utilisent ce produit et elles sont déçues.
+__label__positive	Mon beau-frère a testé ce produit et il est très content.
+__label__negative	Mon beau-frère a testé ce produit et il n'est pas convaincu.
+__label__positive	Ma belle-sœur utilise ce produit et elle le trouve parfait.
+__label__negative	Ma belle-sœur utilise ce produit et elle n'est pas satisfaite.
+__label__positive	Mes petits-enfants ont essayé ce produit et ils l'adorent.
+__label__negative	Mes petits-enfants ont essayé ce produit et ils n'aiment pas.
+__label__positive	Mon petit-fils a testé ce produit et il est ravi.
+__label__negative	Mon petit-fils a testé ce produit et il regrette son achat.
+__label__positive	Ma petite-fille utilise ce produit et elle en est enchantée.
+__label__negative	Ma petite-fille utilise ce produit et elle est déçue.
+__label__positive	Mes arrière-grands-parents ont essayé ce produit et ils le recommandent.
+__label__negative	Mes arrière-grands-parents ont essayé ce produit et ils ne le conseillent pas.
+__label__positive	Mon arrière-grand-père a testé ce produit et il est très content.
+__label__negative	Mon arrière-grand-père a testé ce produit et il n'est pas convaincu.
+__label__positive	Ma arrière-grand-mère utilise ce produit et elle le trouve parfait.
+__label__negative	Ma arrière-grand-mère utilise ce produit et elle n'est pas satisfaite.
+__label__positive	Mes arrière-petits-enfants ont essayé ce produit et ils l'adorent.
+__label__negative	Mes arrière-petits-enfants ont essayé ce produit et ils n'aiment pas.
+__label__positive	Mon arrière-petit-fils a testé ce produit et il est ravi.
+__label__negative	Mon arrière-petit-fils a testé ce produit et il regrette son achat.
+__label__positive	Ma arrière-petite-fille utilise ce produit et elle en est enchantée.
+__label__negative	Ma arrière-petite-fille utilise ce produit et elle est déçue.
+__label__positive	Mes cousins germains ont essayé ce produit et ils le recommandent.
+__label__negative	Mes cousins germains ont essayé ce produit et ils ne le conseillent pas.
+__label__positive	Mon cousin germain a testé ce produit et il est très content.
+__label__negative	Mon cousin germain a testé ce produit et il n'est pas convaincu.
+__label__positive	Ma cousine germaine utilise ce produit et elle le trouve parfait.
+__label__negative	Ma cousine germaine utilise ce produit et elle n'est pas satisfaite.
+__label__positive	Mes oncles et tantes ont essayé ce produit et ils en sont ravis.
+__label__negative	Mes oncles et tantes ont essayé ce produit et ils sont déçus.
+__label__positive	Mon oncle maternel a testé ce produit et il est très satisfait.
+__label__negative	Mon oncle maternel a testé ce produit et il n'est pas impressionné.
+__label__positive	Ma tante maternelle utilise ce produit et elle le trouve génial.
+__label__negative	Ma tante maternelle utilise ce produit et elle n'est pas satisfaite.
+__label__positive	Mes neveux et nièces ont essayé ce produit et ils l'adorent.
+__label__negative	Mes neveux et nièces ont essayé ce produit et ils n'aiment pas.
+__label__positive	Mon neveu a testé ce produit et il est ravi.
+__label__negative	Mon neveu a testé ce produit et il regrette son achat.
+__label__positive	Ma nièce utilise ce produit et elle en est enchantée.
+__label__negative	Ma nièce utilise ce produit et elle est déçue.
+__label__positive	Mes petits-neveux ont essayé ce produit et ils le recommandent.
+__label__negative	Mes petits-neveux ont essayé ce produit et ils ne le conseillent pas.
+__label__positive	Mon petit-neveu a testé ce produit et il est très content.
+__label__negative	Mon petit-neveu a testé ce produit et il n'est pas convaincu.
+__label__positive	Ma petite-nièce utilise ce produit et elle le trouve parfait.
+__label__negative	Ma petite-nièce utilise ce produit et elle n'est pas satisfaite.
+__label__positive	Mes arrière-petits-neveux ont essayé ce produit et ils l'adorent.
+__label__negative	Mes arrière-petits-neveux ont essayé ce produit et ils n'aiment pas.
+__label__positive	Mon arrière-petit-neveu a testé ce produit et il est ravi.
+__label__negative	Mon arrière-petit-neveu a testé ce produit et il regrette son achat.
+__label__positive	Ma arrière-petite-nièce utilise ce produit et elle en est enchantée.
+__label__negative	Ma arrière-petite-nièce utilise ce produit et elle est déçue. 
